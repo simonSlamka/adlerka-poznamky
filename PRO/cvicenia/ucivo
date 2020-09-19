@@ -1,0 +1,12 @@
+Definicia, deklaracia a volanie funkcie
+
+  Definition f is - coding functions algorithm:
+    data_type[void,int,char] name (arguments) {
+      code - body;
+      return - ends function and return expressions value;
+    }
+  Deklaracia je prehlasenie pre kompilator, ze funkcia je vytvorena na inom mieste:
+    data_type[void,int,char] name (arguments);
+  Volanie funkcie:
+    name();
+    name(arguments);

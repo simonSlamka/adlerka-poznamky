@@ -1,0 +1,10 @@
+Pointer (ukazovatel, smernik)
+Pointer je premenna ktora neobsahuje hodnotu ale adresu v pamati na kt je ulozena hodnota
+to je, ukazuje na miesto v pamati.
+Na tomto mieste moze byt premenna typu int,float.char,...
+Teda pozname pointer na int, pointer na float, pointer na char.
+Premenna pointer sa vytvara pomoou operatora *
+Premenna pointer moze nadobudat hodnotu z mnoziny prirodzenych cisel, teda adries
+alebo moze nadobudat praznu adresu NULL (=0)
+Pre pracu s pointermy budeme pouzivat 2 znaky, &(referencia, ziskanie adresy premennej pred kt sa nachadza) a
+* (dereferencna, na ziskanie hodnoty  ulozenej na adrese pointera)

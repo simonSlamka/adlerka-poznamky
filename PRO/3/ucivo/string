@@ -1,0 +1,16 @@
+Je to pole znakov zakoncene koncovym znakom \0
+"string"
+'c' = character
+char str[250];
+char str[] = "slovo"; // vytvotí sa array s dlzkou ktora je potrebna a aj s koncovym znakom
+char str[] = {'s','l','o','v','o','\0'} // da sa to aj manualne
+
+//loading to array
+
+scanf("%s",str);
+gets(str);
+
+//print
+
+printf("%s",str);
+puts(str);

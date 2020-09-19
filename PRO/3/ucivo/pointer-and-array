@@ -1,0 +1,14 @@
+Pointer a array
+Array tvorí v pamäti súvislú vrstvu. Array úzko súvisí s pointermy, názov arrayu
+bez hranatej zátvorky je pointer na začiatok arrayu
+
+*a=a[0]
+*a(a+4)=[5]
+
+a+i=&a[i]
+*(a+i)=a[i]
+
+K prvkom arrayu sa môžeme dostať cez pointerový zápis, ak vychádzame z toho,
+že názov arrayu bez hranatých zátvoriek je pointer na začiatok arrayu,
+tak v našom príklade *a+3 adrese a-čka sa nepripočíta 3jka ale 12ka, teda
+3*veľkosť int. Ak by array bol typu char, pripočítalo sa 3*veľkosť character.
