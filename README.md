@@ -9,7 +9,8 @@ Toto repo je komunitná práca, takže ak máš niečo čo môže pomôcť ostat
 
 ### Pre inteligentné jedince, (odporúčané)
 
-> 1. Naištaluješ si [git](https://git-scm.com/downloads) ak nemáš, čo pochybujem, že máš.
+> 1. Naištaluješ si [git](https://git-scm.com/downloads) ak nemáš, čo pochybujem, že máš. A ak si to chceš, zjednodušiť, 
+> odporúčam [GitHub Desktop](https://desktop.github.com/), tak sa dá vyhnúť terminálu
 >
 > 2. Naklonuješ si toto repo, otvor si terminál a napíš tam toto: `git clone https://github.com/simonSlamkaSMD/adlerka-poznamky.git`
 >
@@ -29,7 +30,7 @@ Toto repo je komunitná práca, takže ak máš niečo čo môže pomôcť ostat
 
 > 1. Keď máš repo na kompe upravíš súbor a napíšeš do terminálu: `git commit -m "komentár"`, toto je pre zaznamenanie zmeny
 >
-> 2. Keď dokončíš všetky zmeny, na server pošleš svoje zmeny týmto príkazom: `git push origin master"`
+> 2. Keď dokončíš všetky zmeny, na server pošleš svoje zmeny týmto príkazom: `git push origin master`
 
 ### Z Petržalky do Dúbravky cez Banskú Bystricu
 
@@ -39,8 +40,9 @@ Toto repo je komunitná práca, takže ak máš niečo čo môže pomôcť ostat
 
 ## Poznámky k tomuto repu
 
-Zatiaľ je v tom bordel, tak dúfam, že sa nájde nejaká dobrá duša, ktorá to vytriedi.
-
 Martin Chmela dlží Filipovi Holčíkovi 20€.
 
+Zatiaľ je v tom bordel, tak dúfam, že sa nájde nejaká dobrá duša, ktorá to vytriedi.
+
+Keď pridávaš súbory cez GIT, tak nezabudni pre pridanie tých súborov napísať: `git add *`
 # No, myslím, že stačí
