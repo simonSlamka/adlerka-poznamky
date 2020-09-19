@@ -3,6 +3,7 @@
 Repo na poznamky z akychkolvek predmetov, aby sme mali prehlad a vsetko pokope. :-D
 
 FILIP:
+
 Toto repo je komunitná práca, takže ak máš niečo čo môže pomôcť ostatným, tak to daj sem.
 
 
