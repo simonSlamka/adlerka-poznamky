@@ -28,7 +28,9 @@ Toto repo je komunitná práca, takže ak máš niečo čo môže pomôcť ostat
 
 ## Ako prispievať
 
-### Jednoduchá cesta, (Môžeš upraviť viac súborov naraz, vymazať/vytvoriť súbory, atď)
+V prvom rade potrebuješ práva na zápis a tie ti vie dať owner tohto repa, stačí napísať na _simon.slamka@smdtech.sk_
+
+### Jednoduchá cesta, (môžeš upraviť viac súborov naraz, vymazať/vytvoriť súbory, atď)
 
 > 1. Keď máš repo na kompe upravíš súbor a napíšeš do terminálu: `git commit -m "komentár"`, toto je pre zaznamenanie zmeny
 >
