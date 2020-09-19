@@ -7,7 +7,7 @@ Toto repo je komunitná práca, takže ak máš niečo čo môže pomôcť ostat
 
 ## Ako si toto stiahnúť
 
-### Pre inteligentné jedince, (odporúčané)
+### Pre inteligentných jedincov, (odporúčané)
 
 > 1. Naištaluješ si [git](https://git-scm.com/downloads) ak nemáš, čo pochybujem, že máš. A ak si to chceš, zjednodušiť, 
 > odporúčam [GitHub Desktop](https://desktop.github.com/), tak sa dá vyhnúť terminálu
