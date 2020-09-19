@@ -1,0 +1,48 @@
+User Exec Mode
+	Router >
+Privileged EM
+	Router > enable
+	Router #
+
+*CONFIG*
+
+	Router 	# configure terminal
+			# conf t
+	Router (config)#
+	Router (config)# hostname <meno>
+	Router (config)# no ip domain-lookup
+	Router (config)# enable password adlerka
+	Router (config)# exit
+	Router 	# sh run
+	Router	# show running config
+	Router	# copy running start
+	Router 	# enable
+	Router (config)# enable secret cisco
+	Router (config)# do sh run
+	Router (config)# line con 0
+	Router (config-line)# logging synchronous
+	Router (config-line)# password class
+	Router (config)# line vty 0 4
+	Router (config-line)# password adlerka
+						  login
+	Router (config)# service password-encryption
+
+SVI - Switch Virtual Interface
+
+*CONFIG*
+
+	Switch (config)# interface vlan 1
+	Switch (config-if)# ip add 192.168.1.1 255.255.255.0
+	Switch (config-if)# no sh
+	Switch (config)# int 60/0
+	Switch (config-if)# add ip 192.168.1.2 255.255.255.0
+	Switch (config)# sh ip int brief
+
+SVI -> .1.254
+
+------------------------------------------------------------------------------------------
+
+passwd - cisco
+secret - adlerka
+another - class
+
