@@ -2,6 +2,8 @@
 
 Repo na poznamky z akychkolvek predmetov, aby sme mali prehlad a vsetko pokope. :-D
 
+!!! #### Prosim nepridavat ziaden ilegalny obsah (obsah chraneny copyrightom, sexisticke zalezitosti, rasizmus, diskriminacne veci, atd. ...
+
 FILIP:
 
 Toto repo je komunitná práca, takže ak máš niečo čo môže pomôcť ostatným, tak to daj sem.
