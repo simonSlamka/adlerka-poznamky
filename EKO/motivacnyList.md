@@ -1,3 +1,5 @@
+**Tento motivacny list nasleduje specificke zadanie od vyucujuceho a neodzrkadluje akekolvek realne nalezitosti**!
+
 Šimon Slamka                        Funradio
 Karloveská 45                       Leškova 5
 841 04 Bratislava                   815 25 Bratislava
