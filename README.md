@@ -1,6 +1,8 @@
 # Adlerka poznámky
 
-Repo na poznamky z akychkolvek predmetov, aby sme mali prehlad a vsetko pokope. :-D
+Repo na poznamky z akychkolvek predmetov, aby sme mali prehlad a vsetko pokope.
+
+#### !!! Prosim nepridavat ziaden ilegalny obsah (obsah chraneny copyrightom, sexisticke zalezitosti, rasizmus, diskriminacia, nacizmus, fasizmus, atd ... !!!
 
 FILIP:
 
