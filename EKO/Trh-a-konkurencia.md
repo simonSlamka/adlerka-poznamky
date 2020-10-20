@@ -10,26 +10,32 @@ Neférové obchodné praktiky. Parazitovanie na známich značkách, ohováranie
 
 ## Typy konkurencie
 
+
 ### Podľa subjektu trhov
 
-#### Konkurencia na strane ponuky
 
-#### Konkurencia na strane dopytu
+> #### Konkurencia na strane ponuky
+>
+> #### Konkurencia na strane dopytu
+
 
 ### Podľa trhových podmienok
 
-#### Dokonalá
 
-#### Nedokonalá
+> #### Dokonalá
+>
+> #### Nedokonalá
+>
+>> ##### Monopolistická
+>>
+>> ##### Oligopol
+>>
+>> ##### Monopol
 
-##### Monopolistická
-
-##### Oligopol
-
-##### Monopol
 
 ### Podľa formy prejavu
 
-#### Cenová
 
-#### Necenová
+> #### Cenová
+>
+> #### Necenová
