@@ -19,9 +19,9 @@ Mzda je cenou práce
 ## Typy mzdy
 
 > ### Nominálna
+>
+> Nominálna mzda je uvedená na dekréte
 > 
 > ### Reálna
 >
 > Za túto mzdu si môžeme niečo kúpiť
->
-> ### Dekretovana
