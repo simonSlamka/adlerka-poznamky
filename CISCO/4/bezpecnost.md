@@ -189,4 +189,15 @@ Tieto riešenia vrstvy 2 nebudú účinné, ak nebudú zabezpečené protokoly s
 
 # Útok na tabuľku MAC adries
 
+## Kontrola prevádzky switchu
+
+Pri rozhodovaní o preposielaní switch LAN vrstvy 2 zostavuje tabuľku na základe zdrojových adries MAC v prijatých vo frejmoch. Toto sa nazýva tabuľka MAC adries. Tabuľky MAC adries sú uložené v pamäti a slúžia na efektívnejšie switchovanie frejmov.
+
+## Zaplavenie tabuľky MAC adries
+
+Všetky tabuľky MAC majú pevnú veľkosť a v dôsledku toho môžu switchu dôjsť prostriedky na ukladanie adries MAC. Útoky na zaplavenie adresy MAC využívajú toto obmedzenie bombardovaním prepínača falošnými zdrojovými adresami MAC, kým nie je tabuľka MAC adries prepínača plná.
+Keď k tomu dôjde, prepínač zaobchádza s rámcom ako s neznámym jednosmerovým vysielaním a začne zahlcovať všetok prichádzajúci prenos zo všetkých portov na tej istej sieti VLAN bez odkazovania na tabuľku MAC. Táto podmienka teraz umožňuje aktérovi hrozby zachytiť všetky rámce odoslané z jedného hostiteľa do druhého v lokálnej sieti LAN alebo lokálnej VLAN. Traffic je zahltený iba v rámci miestnej siete LAN alebo VLAN. Účastník ohrozenia môže zachytiť iba prenos v rámci miestnej siete LAN alebo VLAN, ku ktorej je účastník ohrozenia pripojený.
+
+## Migrácia tabuľky MAC adries
+
 # LAN útoky
