@@ -51,3 +51,10 @@ Počet nezamestnaných je nižší alebo rovnaký ako počet pracovných miest, 
 
 ### vzorcek
 u = (U/L) * 100
+
+## Mzda
+
+a) Mzda je cenou prace.
+b) Typy mzdy - casova, ukolova a kombinovana
+### Casova mzda sa viaze na cas. Vyuziva sa, kde sa nic konkretne neprodukuje, nejde o vyrobu.
+### Ukolova mzda je viazana na vykon, napr. pocet kusov a cenou za kus.
