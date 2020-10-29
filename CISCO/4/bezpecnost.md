@@ -224,7 +224,18 @@ Aktér hrozby je, že konkrétne situácie môžu vložiť skrytý tag 802.1Q do
 
 3. Frejm dorazí k druhému sviču, ktorý nevie, že by mal byť pre natívnu VLAN. Nativní prenos VLAN nie je označený odosielacím svičom, ako je uvedené v špecifikácii 802.1Q. Druhý svič sleduje iba vnútornú značku 802.1Q, ktorú vložil aktér ohrozenia, a vidí, že frejm je určený pre cieľovú VLAN. Druhý svič odošle frejm na cieľ alebo ho zaplaví, v závislosti od toho, či pre cieľ existuje záznam tabuľky MAC adries.
 
+Útok dvojitým značkovaním VLAN je jednosmerný a funguje iba v prípade, že je útočník pripojený k portu nachádzajúcemu sa v rovnakej VLAN ako natívna VLAN hlavného portu. Myšlienka je taká, že dvojité tagovanie umožňuje útočníkovi posielať údaje hostiteľom alebo serverom vo VLAN, ktoré by inak boli blokované určitým typom konfigurácie riadenia prístupu. Pravdepodobne bude povolená aj spätná prevádzka, čo útočníkovi umožní komunikovať so zariadeniami na normálne blokovanej sieti VLAN.
+
+Zmiernenie útoku VLAN - Preskakovaniu sietí VLAN a útokom dvojitého značenia VLAN je možné zabrániť implementáciou nasledujúcich bezpečnostných gajdlajnov trunku, ktoré sú popísané v predchádzajúcom module:
+
+- Zakážte kanálovanie na všetkých prístupových portoch.
+
+- Zakážte automatické prepájanie kanálov na spojeniach kufra, aby sa kufre museli povoliť manuálne.
+
+- Uistite sa, že natívna VLAN sa používa iba pre diaľkové spojenia.
+
 ## DHCP Messages
+
 
 
 ## DHCP Attacks
