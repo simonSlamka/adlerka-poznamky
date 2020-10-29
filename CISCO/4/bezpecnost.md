@@ -1,6 +1,6 @@
   # Bezpečnosť sieti
   
-  Sieť musí byť bezpečná
+  Sieť musí byť bezpečná, preto je dôležité ju po zostavení otestovať. [Link na nástroje](https://tools.kali.org/tools-listing) na testovanie siete.
   
   ## Typy narušenia bezpečnosti
   
@@ -31,7 +31,7 @@
   >
   > ### MitM
   >
-  > "Muž v strede", hacker je uprostred komunikácie medzi dvoma zariadeniami, hacker môže túto komunikáciu ovplyvňovať.
+  > "Muž v strede", hacker je uprostred komunikácie medzi dvoma zariadeniami, hacker môže túto komunikáciu sledovať (sniffing) alebo ovplyvňovať (spoofing).
   >
   > ### XSS
   >
@@ -240,6 +240,17 @@ Servery DHCP dynamicky poskytujú klientom informácie o konfigurácii adresy IP
 
 ## DHCP Attacks
 
+Dva typy útokov DHCP sú "DHCP hladovanie" a "DHCP spoofing". Oba útoky sú zmiernené implementáciou DHCP snooping.
+
+- **DHCP Starvation Attack** - Cieľom tohto útoku je vytvoriť DoS pre pripojenie klientov. Útoky typu DHCP od hladu si vyžadujú útočný nástroj, napríklad Gobbler. Gobbler má schopnosť pozrieť sa na celý rozsah prenajímateľných IP adries a snaží sa ich všetky prenajať. Konkrétne vytvára správy o zisťovaní DHCP s falošnými MAC adresami.
+
+- **DHCP Spoofing Attack** - Deje sa to, keď je k sieti pripojený podvodný server DHCP a poskytuje legitímnym klientom nesprávne konfiguračné parametre adresy IP. Nečestný server môže poskytnúť rôzne zavádzajúce informácie vrátane nasledujúcich:
+
+  - **Nesprávna predvolená brána** - Fejkový server poskytuje neplatnú bránu alebo adresu IP hostiteľa, aby vytvoril útok typu man-in-the-middle. Môže to zostať úplne nezistené, pretože narušiteľ zachytáva tok údajov cez sieť.
+  
+  - **Chybný server DNS** - Fejkový server poskytuje nesprávnu adresu servera DNS, ktorá nasmeruje používateľa na škodlivú webovú stránku.
+  
+  - **Chybná adresa IP** - Fejkový server poskytuje neplatnú adresu IP, čo efektívne vytvára útok DoS na klienta DHCP.
 
 ## ARP Attacks
 
