@@ -137,6 +137,18 @@ Lokálne a serverové sú dve bežné metódy implementácie AAA autentifikácie
 
 - Denník obsahuje početné údajové polia vrátane používateľského mena, dátumu a času a skutočného príkazu, ktorý zadal používateľ. Tieto informácie sú užitočné pri riešení problémov so zariadeniami. Poskytuje tiež dôkazy o tom, kedy jednotlivci páchajú škodlivé činy.
 
+## 802.1X
+
+Štandard IEEE 802.1X je portový protokol kontroly prístupu a autentifikácie. Tento protokol obmedzuje neoprávnené pracovné stanice v pripojení k sieti LAN prostredníctvom verejne prístupných portov prepínačov. Autentifikačný server autentifikuje každú pracovnú stanicu, ktorá je pripojená k portu switcha, pred sprístupnením akýchkoľvek služieb ponúkaných switchom alebo LAN.
+
+Pri overovaní pomocou portu 802.1X majú zariadenia v sieti špecifické úlohy:
+
+- **Klient (Supplicant (najznamejši WPA supplicant))** - Toto je zariadenie, na ktorom je spustený klientsky softvér kompatibilný s normou 802.1X, ktorý je k dispozícii pre káblové alebo bezdrôtové zariadenia.
+
+- **Switch (Authenticator)** - Switch slúži ako sprostredkovateľ medzi klientom a autentifikačným serverom. Vyžiada si od klienta identifikačné informácie, overí ich pomocou autentifikačného servera a odošle odpoveď klientovi. Ďalším zariadením, ktoré by mohlo slúžiť ako autentifikátor, je bezdrôtový prístupový bod.
+
+- **Autentifikačný server** - Server overuje identitu klienta a oznamuje switchu alebo bezdrôtovému prístupovému bodu, že klient má alebo nemá oprávnenie na prístup k sieti LAN a prepínacím službám.
+
 # Nebezpečia layeru 2
 
 # Útok na tabuľku MAC adries
