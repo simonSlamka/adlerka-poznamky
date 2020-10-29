@@ -151,6 +151,25 @@ Pri overovaní pomocou portu 802.1X majú zariadenia v sieti špecifické úlohy
 
 # Nebezpečia layeru 2
 
+## Zranitelnosti
+
+Správcovia sietí bežne implementujú bezpečnostné riešenia na ochranu prvkov vo vrstve 3 až po vrstvu 7. Na ochranu týchto prvkov používajú siete VPN, brány firewall a zariadenia IPS. Ak je však ohrozená vrstva 2, ovplyvnia sa aj všetky vrstvy nad ňou. Napríklad, ak aktér hrozby s prístupom do internej siete zachytil rámce vrstvy 2, potom by všetky zabezpečenia implementované vo vyššie uvedených vrstvách boli zbytočné. Aktér hrozby by mohol spôsobiť veľké škody na sieťovej infraštruktúre LAN vrstvy 2.
+
+## Kategórie útokov na switch
+
+Zabezpečenie je len také silné ako najslabší článok v systéme a vrstva 2 sa považuje za tento slabý článok. Je to tak preto, lebo siete LAN boli tradične pod administratívnou kontrolou jednej organizácie. Vo svojej podstate sme dôverovali všetkým osobám a zariadeniam pripojeným k našej sieti LAN. Dnes, vďaka BYOD a sofistikovanejším útokom, sa naše LAN stali zraniteľnejšie voči penetrácii.
+
+| Category                  | Examples                                                                                                            | 
+| ---                       | -------                                                                                                             |
+| MAC Table Attacks         | Includes MAC address flooding attacks.                                                                              |
+| VLAN Attacks              |   Includes VLAN hopping and VLAN double-tagging attacks. It also includes attacks between devices on a common VLAN. |
+| DHCP Attacks              | Includes DHCP starvation and DHCP spoofing attacks.                                                                 |
+| ARP Attacks               | Includes ARP spoofing and ARP poisoning attacks.                                                                    |
+| Address Spoofing Attacks  | Includes MAC address and IP address spoofing attacks.                                                               |
+| STP Attacks               | Includes Spanning Tree Protocol manipulation attacks.                                                               |
+
+## Migračné techniky útoku na switch
+
 # Útok na tabuľku MAC adries
 
 # LAN útoky
