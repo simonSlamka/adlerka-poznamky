@@ -254,6 +254,14 @@ Dva typy útokov DHCP sú "DHCP hladovanie" a "DHCP spoofing". Oba útoky sú zm
 
 ## ARP Attacks
 
+- Falošná adresa IP je, keď aktér hrozby unesie platnú adresu IP iného zariadenia v podsiete alebo použije náhodnú adresu IP. Falošné adresy IP je ťažké zmierniť, najmä ak sa používajú v podsieti, do ktorej adresa IP patrí.
+
+- K spoofingovým útokom na MAC adresy dochádza, keď aktéri hrozby zmenia MAC adresu svojho hostiteľa tak, aby zodpovedala inej známej MAC adrese cieľového hostiteľa. Svič prepíše aktuálny záznam tabuľky MAC a priradí adresu MAC novému portu. Potom nechtiac preposiela frejmy určené pre cieľového hostiteľa útočiacemu hostiteľovi.
+
+- Keď cieľový hostiteľ pošle prenos, prepínač opraví chybu a MAC adresu zarovná s pôvodným portom. Ak chcete zabrániť tomu, aby prepínač vrátil priradenie portu do správneho stavu, môže aktér hrozby vytvoriť program alebo skript, ktorý bude neustále posielať frejmy do sviču, aby si prepínač uchoval nesprávne alebo sfalšované informácie.
+
+- Na vrstve 2 nie je žiadny bezpečnostný mechanizmus, ktorý by sviču umožňoval overiť zdroj adries MAC, čo ho robí tak zraniteľným voči falšovaniu.
+Falošné adresy IP a MAC je možné zmierniť implementáciou protokolu IP Source Guard (IPSG).
 
 ## Address Spoofing Attacks
 
