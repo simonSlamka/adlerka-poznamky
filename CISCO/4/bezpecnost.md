@@ -97,6 +97,28 @@ Toto sú niektoré z funkcií produktu Cisco ESA:
 
 - AAA je spôsob kontroly toho, kto má povolenie na prístup do siete (autentifikáciu), čo môže robiť, keď je v nej (autorizácia), a na auditovanie toho, aké činnosti vykonali pri prístupe do siete (zúčtovanie).
 
+### Authentication
+
+Lokálne a serverové sú dve bežné metódy implementácie AAA autentifikácie.
+
+**Lokálna autentifikácia AAA:**
+
+- Metóda ukladá používateľské mená a heslá lokálne v sieťovom zariadení (napr. Router Cisco).
+
+- Používatelia sa autentifikujú podľa miestnej databázy.
+
+- Lokálna AAA je ideálna pre malé siete.
+
+**Serverové overenie AAA:**
+
+- Pri serverovej metóde smerovač pristupuje k centrálnemu serveru AAA.
+
+- Server AAA obsahuje používateľské mená a heslo pre všetkých používateľov.
+
+- Router používa na komunikáciu so serverom AAA protokoly Remote Authentication Dial-In User Service (RADIUS) alebo Terminal Access Controller Access Control System (TACACS +).
+
+- Ak je k dispozícii viac routerov a switchov, je vhodnejšie serverové AAA.
+
 # Nebezpečia layeru 2
 
 # Útok na tabuľku MAC adries
