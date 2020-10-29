@@ -278,8 +278,20 @@ Falošné adresy IP a MAC je možné zmierniť implementáciou protokolu IP Sour
 
 ## STP Attack
 
-Sieťoví útočníci môžu manipulovať s protokolom Spanning Tree Protocol (STP) tak, aby vykonali útok spoofingom rootového mosta a zmenou topológie siete. Útočníci potom môžu zachytiť všetku komunikáciu pre doménu s okamžitým prepnutím.
-Na vykonanie manipulačného útoku STP vysiela útočiaci hostiteľ dátové jednotky mosta protokolu STP (BPDU), ktoré obsahujú zmeny konfigurácie a topológie, ktoré vynútia prepočty spanning-tree. Jednotky BPDU zaslané útočiacim hostiteľom oznamujú nižšiu prioritu mosta pri pokuse o zvolenie za koreňový mostík.
-Tento útok STP je zmiernený implementáciou BPDU Guard na všetkých prístupových portoch. BPDU Guard je podrobnejšie diskutovaný neskôr v kurze.
+- Sieťoví útočníci môžu manipulovať s protokolom Spanning Tree Protocol (STP) tak, aby vykonali útok spoofingom rootového mosta a zmenou topológie siete. Útočníci potom môžu zachytiť všetku komunikáciu pre doménu s okamžitým prepnutím.
+
+- Na vykonanie manipulačného útoku STP vysiela útočiaci hostiteľ dátové jednotky mosta protokolu STP (BPDU), ktoré obsahujú zmeny konfigurácie a topológie, ktoré vynútia prepočty spanning-tree. Jednotky BPDU zaslané útočiacim hostiteľom oznamujú nižšiu prioritu mosta pri pokuse o zvolenie za koreňový mostík.
+
+- Tento útok STP je zmiernený implementáciou BPDU Guard na všetkých prístupových portoch. BPDU Guard je podrobnejšie diskutovaný neskôr v kurze.
 
 ## CDP Reconnaissance
+
+Cisco Discovery Protocol (CDP) je proprietárny protokol na zisťovanie odkazov vrstvy 2. Predvolene je povolená na všetkých zariadeniach Cisco. Správcovia sietí tiež používajú program CDP na konfiguráciu a riešenie problémov so sieťovými zariadeniami. Informácie CDP sa zasielajú na porty podporujúce CDP v pravidelných, nezašifrovaných a neoverených vysielaniach. Informácie CDP zahŕňajú IP adresu zariadenia, verziu softvéru IOS, platformu, možnosti a natívnu VLAN. Zariadenie prijímajúce správu CDP aktualizuje svoju databázu CDP.
+
+- Ak chcete zmierniť využitie CDP, obmedzte použitie CDP na zariadeniach alebo portoch. Napríklad zakážte CDP na okrajových portoch, ktoré sa pripájajú k nedôveryhodným zariadeniam.
+
+- Ak chcete globálne zakázať CDP na zariadení, použite príkaz no cdp run global configuration mode. Ak chcete globálne povoliť CDP, použite príkaz globálnej konfigurácie cdp run.
+
+- Ak chcete zakázať CDP na porte, použite príkaz na konfiguráciu rozhrania bez povolenia cdp. Ak chcete povoliť CDP na porte, použite príkaz konfigurácie rozhrania cdp enable.
+
+Protokol LLDP (Link Layer Discovery Protocol) je tiež zraniteľný pri prieskumných útokoch. Nakonfigurujte žiadne spustenie lldp, aby ste globálne zakázali LLDP. Ak chcete zakázať LLDP na rozhraní, nakonfigurujte žiadny prenos lldp a žiadny príjem lldp.
