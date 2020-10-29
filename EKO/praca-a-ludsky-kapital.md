@@ -50,7 +50,7 @@ Počet nezamestnaných je nižší alebo rovnaký ako počet pracovných miest, 
 ## Miera nezamestnanosti
 
 ### vzorcek
-u = (U/L) * 100
+unemployment = (Unemplyed people/Labor) * 100
 
 ## Mzda
 
