@@ -159,7 +159,7 @@ Správcovia sietí bežne implementujú bezpečnostné riešenia na ochranu prvk
 
 Zabezpečenie je len také silné ako najslabší článok v systéme a vrstva 2 sa považuje za tento slabý článok. Je to tak preto, lebo siete LAN boli tradične pod administratívnou kontrolou jednej organizácie. Vo svojej podstate sme dôverovali všetkým osobám a zariadeniam pripojeným k našej sieti LAN. Dnes, vďaka BYOD a sofistikovanejším útokom, sa naše LAN stali zraniteľnejšie voči penetrácii.
 
-| Category                  | Examples                                                                                                            | 
+| Kategória                 | Príklad                                                                                                             | 
 | ---                       | -------                                                                                                             |
 | MAC Table Attacks         | Includes MAC address flooding attacks.                                                                              |
 | VLAN Attacks              |   Includes VLAN hopping and VLAN double-tagging attacks. It also includes attacks between devices on a common VLAN. |
@@ -169,6 +169,23 @@ Zabezpečenie je len také silné ako najslabší článok v systéme a vrstva 2
 | STP Attacks               | Includes Spanning Tree Protocol manipulation attacks.                                                               |
 
 ## Migračné techniky útoku na switch
+
+Tieto riešenia vrstvy 2 nebudú účinné, ak nebudú zabezpečené protokoly správy. Odporúčajú sa tieto stratégie:
+
+- Vždy používajte zabezpečené varianty protokolov správy, napríklad SSH, Secure Copy Protocol (SCP), Secure FTP (SFTP) a Secure Socket Layer / Transport Layer Security (SSL / TLS).
+
+- Na správu zariadení zvážte použitie mimopásmovej siete na správu.
+
+- Používajte vyhradenú správu VLAN, kde sa nenachádza nič iné ako prevádzka správy.
+
+- Na filtrovanie nežiaduceho prístupu použite zoznamy ACL.
+
+| Rieěnie                       | Popis                                                                                               |
+| ---                           | -------                                                                                             |
+| Port Security                 | Prevents many types of attacks including MAC address flooding attacks and DHCP starvation attacks.  |
+| DHCP Snooping                 | Prevents DHCP starvation and DHCP spoofing attacks.                                                 |
+| Dynamic ARP Inspection (DAI)  | Prevents ARP spoofing and ARP poisoning attacks.                                                    |
+| IP Source Guard (IPSG)        | Prevents MAC and IP address spoofing attacks.                                                       |
 
 # Útok na tabuľku MAC adries
 
