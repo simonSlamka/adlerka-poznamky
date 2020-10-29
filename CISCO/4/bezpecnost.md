@@ -254,6 +254,19 @@ Dva typy útokov DHCP sú "DHCP hladovanie" a "DHCP spoofing". Oba útoky sú zm
 
 ## ARP Attacks
 
+- Hostitelia vysielajú ARP požiadavky na určenie MAC adresy hostiteľa s cieľovou IP adresou. Všetci hostitelia v podsiete prijmú a spracujú požiadavku ARP. Hostiteľ so zodpovedajúcou adresou IP v požiadavke ARP odošle odpoveď ARP.
+
+- Klient môže poslať nevyžiadanú odpoveď ARP nazvanú „bezodplatná ARP“. Ostatní hostitelia v podsiete ukladajú adresu MAC a adresu IP obsiahnutú v bezdôvodnom ARP do svojich tabuliek ARP.
+
+- Útočník môže odoslať sviču bezodplatnú správu ARP obsahujúcu sfalšovanú adresu MAC a svič by podľa toho aktualizoval svoju tabuľku MAC. Pri typickom útoku odosiela aktér hrozby nevyžiadané odpovede ARP ďalším hostiteľom v podsieti s MAC adresou aktéra hrozby a IP adresou predvolenej brány, čím efektívne nastavuje útok typu man-in-the-middle.
+
+- Na internete existuje veľa nástrojov na vytváranie útokov typu ARP man-in-the-middle.
+
+- Protokol IPv6 používa na rozlíšenie adries vrstvy 2 protokol ICMPv6 Neighbor Discovery Protocol. Protokol IPv6 obsahuje stratégie na zmiernenie spoofingu so susednou reklamou, podobne ako IPv6 zabraňuje spoofed ARP Reply.
+ARP spoofing a poisoning sú zmiernené implementáciou Dynamic ARP Inspection (DAI).
+
+## Address Spoofing Attacks
+
 - Falošná adresa IP je, keď aktér hrozby unesie platnú adresu IP iného zariadenia v podsiete alebo použije náhodnú adresu IP. Falošné adresy IP je ťažké zmierniť, najmä ak sa používajú v podsieti, do ktorej adresa IP patrí.
 
 - K spoofingovým útokom na MAC adresy dochádza, keď aktéri hrozby zmenia MAC adresu svojho hostiteľa tak, aby zodpovedala inej známej MAC adrese cieľového hostiteľa. Svič prepíše aktuálny záznam tabuľky MAC a priradí adresu MAC novému portu. Potom nechtiac preposiela frejmy určené pre cieľového hostiteľa útočiacemu hostiteľovi.
@@ -262,9 +275,6 @@ Dva typy útokov DHCP sú "DHCP hladovanie" a "DHCP spoofing". Oba útoky sú zm
 
 - Na vrstve 2 nie je žiadny bezpečnostný mechanizmus, ktorý by sviču umožňoval overiť zdroj adries MAC, čo ho robí tak zraniteľným voči falšovaniu.
 Falošné adresy IP a MAC je možné zmierniť implementáciou protokolu IP Source Guard (IPSG).
-
-## Address Spoofing Attacks
-
 
 ## STP Attack
 
