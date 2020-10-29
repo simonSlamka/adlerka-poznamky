@@ -216,6 +216,13 @@ Aktér ohrozenia nakonfiguruje hostiteľa tak, aby spoofoval signalizáciu 802.1
 
 ## VLAN Double-Tagging Attacks
 
+Aktér hrozby je, že konkrétne situácie môžu vložiť skrytý tag 802.1Q do frejmu, ktorý už tag 802.1Q obsahuje. Tento tag umožňuje frejmu prejsť na VLAN, ktorú pôvodný tag 802.1Q nešpecifikovala.
+
+1. Aktér hrozby pošle prepínaču rámček 802.1Q s dvojitým označením. Vonkajšia hlavička má značku VLAN aktéra ohrozenia, ktorá je rovnaká ako natívna VLAN hlavného portu.
+
+2. Frejm dorazí na prvý switch, ktorý sleduje prvú štvorbajtový tag 802.1Q. Svič vidí, že frejm je určený pre natívnu VLAN. Svič po odstránení tagu VLAN preposiela paket von zo všetkých natívnych portov VLAN. Frejm nie je označený znova, pretože je súčasťou natívnej VLAN. V tomto okamihu je vnútorná značka VLAN stále neporušená a nebol skontrolovaný prvým svičom.
+
+3. Frejm dorazí k druhému sviču, ktorý nevie, že by mal byť pre natívnu VLAN. Nativní prenos VLAN nie je označený odosielacím svičom, ako je uvedené v špecifikácii 802.1Q. Druhý svič sleduje iba vnútornú značku 802.1Q, ktorú vložil aktér ohrozenia, a vidí, že frejm je určený pre cieľovú VLAN. Druhý svič odošle frejm na cieľ alebo ho zaplaví, v závislosti od toho, či pre cieľ existuje záznam tabuľky MAC adries.
 
 ## DHCP Messages
 
