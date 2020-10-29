@@ -236,7 +236,7 @@ Zmiernenie útoku VLAN - Preskakovaniu sietí VLAN a útokom dvojitého značeni
 
 ## DHCP Messages
 
-
+Servery DHCP dynamicky poskytujú klientom informácie o konfigurácii adresy IP vrátane adresy IP, masky podsiete, predvolenej brány, serverov DNS a ďalších. 
 
 ## DHCP Attacks
 
