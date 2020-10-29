@@ -36,7 +36,7 @@ Ponuku práce tvorí práceschopné obyvateľstvo v produktívnom veku
 
 Počet nezamestnaných je nižší alebo rovnaký ako počet pracovných miest, normalne je do 5%
 
-## Typi nezamestnanosti
+## Typy nezamestnanosti
 
 > ### Frikčná
 > Súvisí so sťahovním sa
@@ -46,3 +46,8 @@ Počet nezamestnaných je nižší alebo rovnaký ako počet pracovných miest, 
 >
 > ### Sezónna
 > Sezónne zamestnanie, ktoré nemá využitie v inej sezóne
+
+## Miera nezamestnanosti
+
+### vzorcek
+u = (U/L) * 100
