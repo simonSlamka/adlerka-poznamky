@@ -278,5 +278,8 @@ Falošné adresy IP a MAC je možné zmierniť implementáciou protokolu IP Sour
 
 ## STP Attack
 
+Sieťoví útočníci môžu manipulovať s protokolom Spanning Tree Protocol (STP) tak, aby vykonali útok spoofingom rootového mosta a zmenou topológie siete. Útočníci potom môžu zachytiť všetku komunikáciu pre doménu s okamžitým prepnutím.
+Na vykonanie manipulačného útoku STP vysiela útočiaci hostiteľ dátové jednotky mosta protokolu STP (BPDU), ktoré obsahujú zmeny konfigurácie a topológie, ktoré vynútia prepočty spanning-tree. Jednotky BPDU zaslané útočiacim hostiteľom oznamujú nižšiu prioritu mosta pri pokuse o zvolenie za koreňový mostík.
+Tento útok STP je zmiernený implementáciou BPDU Guard na všetkých prístupových portoch. BPDU Guard je podrobnejšie diskutovaný neskôr v kurze.
 
 ## CDP Reconnaissance
