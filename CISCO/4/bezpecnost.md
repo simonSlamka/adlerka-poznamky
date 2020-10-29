@@ -39,6 +39,8 @@
   >
   > ### A mnohé iné
 
+# Všeobecná bezpečnosť
+
 ## Prevencia pred narušením bezpečnosti
 
 - VPN/Proxy
@@ -57,6 +59,8 @@
 
 - Minimalozovanie výskytu zariadení so systémom Microsoft Windows na sieti
 
+# Bezpečnosť koncových zariadení
+
 ## Cisco Email Security Appliance
 
 The Cisco ESA zariadenie je navrhnuté aby monitorovalo SMTP.
@@ -72,3 +76,11 @@ Toto sú niektoré z funkcií produktu Cisco ESA:
 - Blokovať prístup k novo infikovaným stránkam.
 
 - Šifrujte obsah odchádzajúcich e-mailov, aby ste zabránili strate údajov.
+
+# Regulácia prístupu
+
+# Nebezpečia layeru 2
+
+# Útok na tabuľku MAC adries
+
+# LAN útoky
