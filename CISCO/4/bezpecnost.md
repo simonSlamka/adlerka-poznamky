@@ -207,3 +207,29 @@ Vďaka čomu sú nástroje ako [macof](https://github.com/WhiteWinterWolf/macof.
 Na zmiernenie útokov na pretečenie tabuľky MAC adries musia správcovia siete implementovať zabezpečenie portu. Zabezpečenie portu umožní na portu zistiť iba zadaný počet zdrojových adries MAC.
 
 # LAN útoky
+
+## VLAN Hopping Attacks
+
+Skokový útok VLAN umožňuje, aby bola prevádzka z jednej VLAN viditeľná inou VLAN bez pomoci routera. Pri základnom preskakovacom útoku VLAN nakonfiguruje aktér hrozby hostiteľa tak, aby fungoval ako switch, aby využil výhodu funkcie automatického portu trunking, ktorá je predvolene povolená na väčšine portov switchu.
+
+Aktér ohrozenia nakonfiguruje hostiteľa tak, aby spoofoval signalizáciu 802.1Q a signalizáciu vlastníckeho Cisco protokolu Dynamic Trunking Protocol (DTP), do trunku pomocou spojovacieho switchu úspešný, switch vytvorí diaľkové spojenie s hostiteľom. Aktér hrozby má teraz prístup ku všetkým sieťam VLAN na switchi. Aktér hrozby môže odosielať a prijímať prenosy na ľubovoľných sieťach VLAN a efektívne preskakovať medzi sieťami VLAN (podobné ako pivoting (technika hackingu)).
+
+## VLAN Double-Tagging Attacks
+
+
+## DHCP Messages
+
+
+## DHCP Attacks
+
+
+## ARP Attacks
+
+
+## Address Spoofing Attacks
+
+
+## STP Attack
+
+
+## CDP Reconnaissance
