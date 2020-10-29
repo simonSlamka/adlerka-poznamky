@@ -56,3 +56,19 @@
 - Personálne audity
 
 - Minimalozovanie výskytu zariadení so systémom Microsoft Windows na sieti
+
+## Cisco Email Security Appliance
+
+The Cisco ESA zariadenie je navrhnuté aby monitorovalo SMTP.
+
+Toto sú niektoré z funkcií produktu Cisco ESA:
+
+- Blokovať známe hrozby
+
+- Opravte škodlivý softvér, ktorý sa vyhol prvotnej detekcii
+
+- Zlikvidujte e-mailové adresy so zlými odkazmi
+
+- Blokovať prístup k novo infikovaným stránkam.
+
+- Šifrujte obsah odchádzajúcich e-mailov, aby ste zabránili strate údajov.
