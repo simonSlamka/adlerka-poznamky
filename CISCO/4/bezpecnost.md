@@ -119,6 +119,24 @@ Lokálne a serverové sú dve bežné metódy implementácie AAA autentifikácie
 
 - Ak je k dispozícii viac routerov a switchov, je vhodnejšie serverové AAA.
 
+### Authorization
+
+- Autorizácia AAA je automatická a nevyžaduje od používateľov, aby po overení vykonali ďalšie kroky.
+
+- Autorizácia určuje, čo môžu a nemôžu používatelia v sieti robiť po overení.
+
+- Autorizácia používa množinu atribútov, ktorá popisuje prístup používateľa do siete. Tieto atribúty používa server AAA na určenie oprávnení a obmedzení pre daného používateľa.
+
+### Accounting
+
+Účtovníctvo AAA zhromažďuje a hlási údaje o použití. Tieto údaje môžu byť použité na také účely, ako je audit alebo fakturácia. Zhromaždené údaje môžu zahŕňať časy začatia a ukončenia pripojenia, vykonané príkazy, počet paketov a počet bajtov.
+
+**Účtovníctvo sa primárne využíva na kombináciu s autentifikáciou AAA.**
+
+- Server AAA vedie podrobný protokol o tom, čo presne autentifikovaný užívateľ v zariadení robí, ako je to znázornené na obrázku. Zahŕňa to všetky EXEC a konfiguračné príkazy vydané používateľom.
+
+- Denník obsahuje početné údajové polia vrátane používateľského mena, dátumu a času a skutočného príkazu, ktorý zadal používateľ. Tieto informácie sú užitočné pri riešení problémov so zariadeniami. Poskytuje tiež dôkazy o tom, kedy jednotlivci páchajú škodlivé činy.
+
 # Nebezpečia layeru 2
 
 # Útok na tabuľku MAC adries
