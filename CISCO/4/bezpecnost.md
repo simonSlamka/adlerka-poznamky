@@ -38,9 +38,7 @@
   > "Skrz stránkové skriptovanie", vloženie skriptu (vačšinou JS) na fornt-end stránky, ktorú použivajú užívatelia.
   >
   > ### A mnohé iné
-
-# Všeobecná bezpečnosť
-
+  
 ## Prevencia pred narušením bezpečnosti
 
 - VPN/Proxy
@@ -59,7 +57,7 @@
 
 - Minimalozovanie výskytu zariadení so systémom Microsoft Windows na sieti
 
-# Bezpečnosť koncových zariadení
+# Zabezpečenie koncových zariadení
 
 ## Cisco Email Security Appliance
 
@@ -77,7 +75,27 @@ Toto sú niektoré z funkcií produktu Cisco ESA:
 
 - Šifrujte obsah odchádzajúcich e-mailov, aby ste zabránili strate údajov.
 
+## Cisco Web Security Appliance
+
+- Zmierňuje webové hrozby. Pomáha organizáciám riešiť problémy so zabezpečením a riadením webového prenosu.
+
+- Kombinuje pokročilú ochranu pred malvérom, viditeľnosť a kontrolu aplikácií, prijateľné kontroly politík používania a vytváranie prehľadov.
+
+- Poskytuje úplnú kontrolu nad tým, ako používatelia pristupujú k internetu. Niektoré funkcie a aplikácie, ako napríklad čet, správy, video a zvuk, je možné povoliť, obmedziť časovými limitmi a šírkou pásma alebo zablokovať podľa požiadaviek organizácie.
+
+- Môže vykonávať zoznam zakázaných adries URL, filtrovanie adries URL, skenovanie škodlivého softvéru, kategorizáciu adries URL, filtrovanie webových aplikácií a šifrovanie a dešifrovanie prenosu z webu.
+
 # Regulácia prístupu
+
+## Autentifikácia pomocou lokálneho hesla
+
+- Najjednoduchšou metódou overovania vzdialeného prístupu je konfigurácia kombinácie prihlásenia a hesla na konzole, vty lines a aux portoch.
+
+## AAA súčasti
+
+- AAA je skratka pre autentizáciu, autorizáciu a zúčtovanie a poskytuje primárny rámec pre nastavenie riadenia prístupu na sieťovom zariadení.
+
+- AAA je spôsob kontroly toho, kto má povolenie na prístup do siete (autentifikáciu), čo môže robiť, keď je v nej (autorizácia), a na auditovanie toho, aké činnosti vykonali pri prístupe do siete (zúčtovanie).
 
 # Nebezpečia layeru 2
 
