@@ -15,3 +15,13 @@ Mzda je cenou práce
 > ### Kombinovaná
 >
 > Využíva sa aj časová aj úkolová mzda
+
+## Typy mzdy
+
+> ### Nominálna
+> 
+> ### Reálna
+>
+> Za túto mzdu si môžeme niečo kúpiť
+>
+> ### Dekretovana
