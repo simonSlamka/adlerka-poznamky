@@ -50,14 +50,5 @@ Počet nezamestnaných je nižší alebo rovnaký ako počet pracovných miest, 
 ## Miera nezamestnanosti
 
 ### vzorcek
+
 unemployment = (Unemplyed people/Labor) * 100
-
-## Mzda
-
-a) Mzda je cenou prace.
-b) Typy mzdy - casova, ukolova a kombinovana
-### Casova mzda sa viaze na cas. Vyuziva sa, kde sa nic konkretne neprodukuje, nejde o vyrobu.
-### Ukolova mzda je viazana na vykon, napr. pocet kusov a cenou za kus.
-c) nominalna a realna mzda
-### nominalna mzda je uvedena na dekrete
-### realna mzda je mzda, za ktoru si realne vieme nieco kupit
