@@ -200,4 +200,10 @@ Keď k tomu dôjde, prepínač zaobchádza s rámcom ako s neznámym jednosmerov
 
 ## Migrácia tabuľky MAC adries
 
+Vďaka čomu sú nástroje ako [macof](https://github.com/WhiteWinterWolf/macof.py) (súčasťou projektu [dsniff](https://www.monkey.org/~dugsong/dsniff/)) také nebezpečné, je to, že útočník dokáže veľmi rýchlo vytvoriť útok na pretečenie tabuľky MAC. Napríklad switch Catalyst 6500 môže uložiť 132 000 MAC adries do svojej tabuľky MAC adries. Nástroj ako [macof](https://github.com/WhiteWinterWolf/macof.py) môže zaplaviť switch až 8 000 falošných snímok za sekundu; vytvorenie útoku pretečenia tabuľky MAC adries v priebehu niekoľkých sekúnd.
+
+Ďalším dôvodom, prečo sú tieto útočné nástroje nebezpečné, je to, že ovplyvňujú nielen lokálny switch, ale môžu ovplyvňovať aj ďalšie pripojené switche vrstvy 2. Keď je tabuľka MAC adries prepínača plná, začne zaplavovať všetky porty vrátane portov pripojených k iným prepínačom vrstvy 2.
+
+Na zmiernenie útokov na pretečenie tabuľky MAC adries musia správcovia siete implementovať zabezpečenie portu. Zabezpečenie portu umožní na portu zistiť iba zadaný počet zdrojových adries MAC.
+
 # LAN útoky
