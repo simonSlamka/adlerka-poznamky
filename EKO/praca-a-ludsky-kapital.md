@@ -46,3 +46,7 @@ Počet nezamestnaných je nižší alebo rovnaký ako počet pracovných miest, 
 >
 > ### Sezónna
 > Sezónne zamestnanie, ktoré nemá využitie v inej sezóne
+
+## Miera nezamestnanosti
+
+unemployment = Unemployed people / Labor peope * 100
