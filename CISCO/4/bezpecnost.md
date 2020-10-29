@@ -38,3 +38,21 @@
   > "Skrz stránkové skriptovanie", vloženie skriptu (vačšinou JS) na fornt-end stránky, ktorú použivajú užívatelia.
   >
   > ### A mnohé iné
+
+## Prevencia pred narušením bezpečnosti
+
+- VPN/Proxy
+
+- Firewall/NGFW
+
+- NAC
+
+- ADBlock (môže zabrániť XSS útoku)
+
+- Up to date software
+
+- SSH, nie telnet
+
+- Personálne audity
+
+- Minimalozovanie výskytu zariadení so systémom Microsoft Windows na sieti
