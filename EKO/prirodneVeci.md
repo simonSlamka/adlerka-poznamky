@@ -24,6 +24,11 @@ Intravilán - Pôda v zastavanom území (v meste, v obci), môže sa tam konať
 
 Sú takí podvodníci, čo premieňajú extravilány na intravilány.
 
+## Trh pôdy
+
+Dopyt po pôde + ponuka pôdy = trh pôdy
+
+Pôda má monopolný charakter, viac jej nebude.
 
 # Problémy súčasného poľnohospodárstva v SR
 
