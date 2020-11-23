@@ -1,3 +1,12 @@
+# Pravdepodobnosť
+
+## Základné pojmy
+
+### Náhodný pokus
+
+Opakovaná činnosť, ktorá pri dodržaní predpísaných podmienok vedie k rôznym výsledkom.
+Tieto nezávisia len od daných podmienok, ale aj od náhody. Napríklad hod kockou, žrebovanie, vývoj pandémie.
+
 # Vsťahy medzi náhodnými javmi
 
 ## Podjav
