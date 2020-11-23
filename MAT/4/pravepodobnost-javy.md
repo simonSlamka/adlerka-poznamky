@@ -29,7 +29,7 @@ B: Padne číslo 2. B = {2}
 Príklad: Hod kockou
 
 
-A: Padne nepárne číslo. B = {1;3;5}
+A: Padne nepárne číslo. A = {1;3;5}
 
 B: Pande párne prvočíslo. B = {2}
 
@@ -37,6 +37,21 @@ A ⋃ B: Padne niektoré z čísel 1, 2, 3, 5. A ⋃ B = {1;2;3;5}
 
 ## Prienik
 
+- A ⋂ B - prienik javov je jav, ktorý nastane, ak nastanú súčasne oba javy A *a(súčasne)* B
+
+Príklad: Hod kockou
+
+
+A: Padne číslo menšie ako 5. A = {1;2;3;4}
+
+B: Pande číslo väčšie ako 2. B = {3;4;5;6}
+
+A ⋂ B: Padne číselo 3, 4. A ⋂ B = {3;4}
+
+- Ak je A ⋂ B jav nemožný (A ⋂ B = ∅), potom sú javy A a B nezlúčiteľné, alebo navzájom sa vylučujúce javy (disjunktné)
+
 ## Doplnok
+
+
 
 ## Rozdiel
