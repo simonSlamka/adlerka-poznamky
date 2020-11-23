@@ -50,6 +50,12 @@ A ⋂ B: Padne číselo 3, 4. A ⋂ B = {3;4}
 
 - Ak je A ⋂ B jav nemožný (A ⋂ B = ∅), potom sú javy A a B nezlúčiteľné, alebo navzájom sa vylučujúce javy (disjunktné)
 
+Príklad: Hod kockou
+
+A: Pande párne číslo.
+
+B: Pande nepárne číslo.
+
 ## Doplnok
 
 
