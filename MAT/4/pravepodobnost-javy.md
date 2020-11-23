@@ -48,9 +48,12 @@ B: Pande číslo väčšie ako 2. B = {3;4;5;6}
 
 A ⋂ B: Padne číselo 3, 4. A ⋂ B = {3;4}
 
+---
+
 - Ak je A ⋂ B jav nemožný (A ⋂ B = ∅), potom sú javy A a B nezlúčiteľné, alebo navzájom sa vylučujúce javy (disjunktné)
 
 Príklad: Hod kockou
+
 
 A: Pande párne číslo.
 
@@ -58,6 +61,16 @@ B: Pande nepárne číslo.
 
 ## Doplnok
 
+- Ā (alebo A') - opačný (doplnkový) jav k javu A je jav, ktorý nastane práve vtedy, ak nenastane jav A.
 
+Príklad: Hod kockou
+
+
+A: Padne číslo 6.
+
+Ā: Padne niektoré z čísel 1, 2, 3, 5 (nepadne číslo 6).
+
+A ⋂ Ā = ∅
+A ⋃ Ā = 𝛀
 
 ## Rozdiel
