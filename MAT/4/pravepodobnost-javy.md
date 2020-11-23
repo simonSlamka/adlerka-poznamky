@@ -46,7 +46,7 @@ A: Padne číslo menšie ako 5. A = {1;2;3;4}
 
 B: Pande číslo väčšie ako 2. B = {3;4;5;6}
 
-A ⋂ B: Padne číselo 3, 4. A ⋂ B = {3;4}
+A ⋂ B: Padne číslo 3, 4. A ⋂ B = {3;4}
 
 ---
 
@@ -71,6 +71,35 @@ A: Padne číslo 6.
 Ā: Padne niektoré z čísel 1, 2, 3, 5 (nepadne číslo 6).
 
 A ⋂ Ā = ∅
+
 A ⋃ Ā = 𝛀
 
 ## Rozdiel
+
+- A - B - rozdiel javov je jav, ktorý nastane práve vtedy, ak nastane jav A a súčasne nenastane jav B
+
+Príklad: Hod kockou
+
+
+A: Pande číslo väčšie ako 2. B = {3;4;5;6}
+
+B: Padne číslo menšie ako 5. A = {1;2;3;4}
+
+A - B: Padne číslo 5 alebo 6. A - B = {5;6}
+
+---
+
+## Príklad
+
+Náhodne vybratý výrobok može byť buď prvej akosti (udalosť A), druhej (udalosť B) alebo tretej akosti (udalosť C). 
+Vysvetlite význam udalostí:
+
+A ⋃ B - Vybraný výrobok je buď prvej, alebo druhej akosti.
+
+(A ⋃ C)' - Vybraný výrobok je druhej akosti
+
+A ⋂ C = ∅ - Jav nemožný
+
+(A ⋂ B) ⋃ C - Vybraný výrobok je tretej akosti
+
+A ⋃ B ⋃ C - Vybraný výrobok je buď prvej, druhej alebo tretej akosti
