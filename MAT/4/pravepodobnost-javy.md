@@ -32,6 +32,17 @@ A: Padne párne číslo. A = {2;4;6}
 
 B: Padne číslo menšie ako 3. A = {1;2}
 
+## Domáca úloha
+
+## Vymyslieť príklad na jav istý, nemoźný a náhodný
+
+Náhodný pokus: Stlačenie klávesy klávesnice (medzinárodná)
+
+Jav istý - bude stlačený znak vyskytujúci sa na medzinárodnej klávesnici
+
+Jav nemožný - bude stlačený znak "dz", toto nikdy nenastane, pretože "dz" nieje klávesa, je to kombinácia dvoch kláves
+
+Náhodný jav - bude stlačená klávesa "Super"
 
 # Vsťahy medzi náhodnými javmi
 
