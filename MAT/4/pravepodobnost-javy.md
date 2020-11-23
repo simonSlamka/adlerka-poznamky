@@ -1,5 +1,7 @@
 # Pravdepodobnosť
 
+Filip Holčík, 4.C
+
 ## Základné pojmy
 
 ### Náhodný pokus
