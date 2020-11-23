@@ -4,8 +4,34 @@
 
 ### Náhodný pokus
 
-Opakovaná činnosť, ktorá pri dodržaní predpísaných podmienok vedie k rôznym výsledkom.
-Tieto nezávisia len od daných podmienok, ale aj od náhody. Napríklad hod kockou, žrebovanie, vývoj pandémie.
+- Opakovaná činnosť, ktorá pri dodržaní predpísaných podmienok vedie k rôznym výsledkom.
+
+- Tieto nezávisia len od daných podmienok, ale aj od náhody. Napríklad hod kockou, žrebovanie, vývoj pandémie.
+
+### Istý jav
+
+- jav, ktorý pri daných podmienkach nastane vždy (𝛀).
+
+### Nemožný jav
+
+- jav, ktorý pri daných podmienkach nikdy nenastane (∅)
+
+### Náhodný jav (náhodná udalosť)
+
+- Je to podmnožina množiny 𝛀.
+
+- Každý výsledok, alebo skupina výsledkov náhodného pokusu.
+
+- Označenie javov - A, B, C, ...
+
+Príklad:
+
+Náhodný pokus: Hod kockou
+
+A: Padne párne číslo. A = {2;4;6}
+
+B: Padne číslo menšie ako 3. A = {1;2}
+
 
 # Vsťahy medzi náhodnými javmi
 
