@@ -52,4 +52,22 @@ Príjmy sú väčšia ako výdavky
 
 - Oblečenie - 100
 
-- Telefón - 40
+- Telefón - 50
+
+- Telka - 10
+
+- Dračeky - 100
+
+- Zvieratá - 50
+
+- Dovolenky - 250
+
+- Šport a kultúra - 30
+
+- Časopisy a knihy - 20
+
+- Drogéria - 30
+
+- Drogy (alkohol, fajčivo) - 50
+
+- Lieky a suplementy - 20
