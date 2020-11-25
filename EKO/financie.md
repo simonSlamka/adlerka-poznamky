@@ -10,7 +10,7 @@ Príjmy sa rovnajú výdavkom
 
 ## Rozpočet sporiteľa
 
-Príjmy sú väčšia ako výdavky
+Príjmy sú väčšie ako výdavky
 
 # Vypracovanie rodinného plánu
 
