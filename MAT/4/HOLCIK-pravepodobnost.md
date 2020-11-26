@@ -151,3 +151,28 @@ A ⋂ C = ∅ - Jav nemožný
 (A ⋂ B) ⋃ C - Vybraný výrobok je tretej akosti
 
 A ⋃ B ⋃ C - Vybraný výrobok je buď prvej, druhej alebo tretej akosti
+
+## Vysveltenie pojmov
+
+- Náhodný pokus - Vykonávanie činnosti s rôznymi výsledkami závisiacimi od náhody
+
+- Náhodný jav - Výsledok náhodného pokusu
+
+- Jav istý - Náhodný jav ktorý počas pokusu určite nastane
+
+- Jav nemožný - Náhodný jav ktorý počas pokusu určite nenastane
+
+- Podjav javu - Jav, ktorý je súčasťou iného nadradeného javu
+
+- Rovnosť javov - Javy sú tie isté
+
+- Zjednotenie javov - Výsledkom sú všetky javy oboch javov
+
+- Prienik javov - Výsledkom sú len tie javy, ktoré vystupujú v zjednocovaných javoch súčasne
+
+- Disjunktné javy - Javy sa vylučujú, keď nastane 1 nemôže nastať 2., napríklad padne číslo 3 a padne číslo 4
+
+- Opačný jav - Negácia inak povedané doplnok, pokiaľ nastane jeden jav, tak jeho doplnok nenastane
+
+- Rozdiel javov - Odčítavanie javov, napríklad A = {1;2;3;4;5} B = {2;4}, A - B = {1,3,5}
+
