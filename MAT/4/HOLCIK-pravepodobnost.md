@@ -176,3 +176,21 @@ A ⋃ B ⋃ C - Vybraný výrobok je buď prvej, druhej alebo tretej akosti
 
 - Rozdiel javov - Odčítavanie javov, napríklad A = {1;2;3;4;5} B = {2;4}, A - B = {1,3,5}
 
+---
+
+## Príklad: 
+
+Príklad: Udalosť A znamená, že náhodne vybraté prirodzené číslo má na poslednom mieste  0,  udalosť B  znamená, že číslo je deliteľné piatimi. 
+Vysvetlite význam udalostí:
+
+A' - Vybraté číslo nemá na poslednom mieste nulu.
+
+B' - Vybraté číslo nie je deliteľné piatimi.
+
+A' ⋂ B - Vybraté číslo nemá na poslednom mieste nulu a je deliteľné piatimi, pretoze jeho posledná číslica je hodnoty 5.
+
+A ⋃ B' - Vybraté číslo číslo má na poslednom mieste nulu alebo nie je deliteľné piatimi, lebo posledná čislica je 5.
+
+A' ⋃ B - Vybraté číslo nemá na poslednom mieste nulu alebo je deliteľné piatimi, takže toto čislo môže byť ľubovólne, keďže "nepožaduje žiadne parametre", na základe týchto skutočností je tento jav ISTÝ.
+
+
