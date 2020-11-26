@@ -87,3 +87,7 @@ Príjmy sú väčšie ako výdavky
 - Splátkový predaj - 50
 
 - Leasing - 100
+
+---
+
+- Zostatok - 365
