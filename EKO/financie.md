@@ -71,3 +71,5 @@ Príjmy sú väčšie ako výdavky
 - Drogy (alkohol, fajčivo) - 50
 
 - Lieky a suplementy - 20
+
+- Spolu náklady = 1120
