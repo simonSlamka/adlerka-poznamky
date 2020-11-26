@@ -72,4 +72,16 @@ Príjmy sú väčšie ako výdavky
 
 - Lieky a suplementy - 20
 
+---
+
 - Spolu náklady = 1120
+
+- Kreditka - 50
+
+- Povolené prečerpanie - 0
+
+- Stavebny úver - 0
+
+- Úver na bývanie - 400
+
+- Splátkový predaj - 50
