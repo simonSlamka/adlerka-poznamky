@@ -85,3 +85,5 @@ Príjmy sú väčšie ako výdavky
 - Úver na bývanie - 400
 
 - Splátkový predaj - 50
+
+- Leasing - 100
