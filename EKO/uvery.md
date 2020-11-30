@@ -31,3 +31,20 @@ Slúži na vyplatenie viacerých úverov s výhodnejšími podmienkami.
 ## Leasing
 
 Poskytujú ho subiekty, ktoré pretmet leasingu dávajú do prenajmu dlžníkovi.
+
+### Operatívny
+
+Krátkodobý
+
+### Finančný
+
+Na celú dobu životnosti
+
+## Stavebný medziúver
+
+Poskytujú ho stavebné sporitelne.
+
+## Splátkový predaj
+
+Predaj bielej a čiernej techniky na splátky.
+
