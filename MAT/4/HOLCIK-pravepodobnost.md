@@ -193,4 +193,17 @@ A ⋃ B' - Vybraté číslo číslo má na poslednom mieste nulu alebo nie je de
 
 A' ⋃ B - Vybraté číslo nemá na poslednom mieste nulu alebo je deliteľné piatimi, takže toto čislo môže byť ľubovólne, keďže "nepožaduje žiadne parametre", na základe týchto skutočností je tento jav ISTÝ.
 
+# Teória pravdepodobnosti
+
+## Pravdepodobnosť
+
+Vyjadruje mieru očakávanie, že nastane daný výsledok. Ku každému náhodnému javu *A* možno priradiť číslo **P(A)**, nazvané pravdepodobnosť javu A, pre ktoré platí:
+
+#### 0 <= P(A) <= 1
+
+### Klasická (Laplaceo) definícia pravdepodobnosti
+
+Pravdepodobnosť **P(a)** javu **A** je podielom počtu *m* výsledkov pokusu, s ktorých jav **A** nastane (priaznivých výsledkov) a počtu **n** všetkých možných výsledkov náhodného pokusu.
+
+#### P(A) = m/n
 
