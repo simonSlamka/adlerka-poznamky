@@ -201,9 +201,54 @@ Vyjadruje mieru očakávanie, že nastane daný výsledok. Ku každému náhodn�
 
 #### 0 <= P(A) <= 1
 
-### Klasická (Laplaceo) definícia pravdepodobnosti
+### Klasická (Laplaceová) definícia pravdepodobnosti
 
 Pravdepodobnosť **P(a)** javu **A** je podielom počtu *m* výsledkov pokusu, s ktorých jav **A** nastane (priaznivých výsledkov) a počtu **n** všetkých možných výsledkov náhodného pokusu.
 
-#### P(A) = m/n
+***P(A) = m/n***
 
+#### Príklad: Aká je pravdepodobnosť, že pri hodení kocky padne stena s čislom 4?
+
+Množina všetkých možných výsledkov
+
+Omga = {1;2;3;4;5;6} ... n = 6
+
+Priaznivý prípad, jav *A*
+
+A = {4} ... m = 1
+
+***P(a) = m/n = 1/6 (16,7%)***
+
+#### Príklad: V urne je 10 červených, 5 modrých a 15 bielych gulôčok. Aká je pravdepodobnosť, že vytiahneme červenú?
+
+A: Vyťiahnutie červenej gulôčky.
+
+n = 30
+
+m = 10
+
+P(A) = m/n = 1/3 (33,3%)
+
+#### Maturitný príklad: V klobúku sú 4 čierne a 4 biele guľký. Naraz vytiahneme 2 guľky. Aká je (s presnosťou dve desatiné miesta) pravdepodobnosť, že obe budú biele?
+
+A: Vytiahnutie 2 bielych guličiek.
+
+n = C2(8) = 28
+
+m = C2(4) = 6
+
+P(A) = m/n = 6/28 = 0,21
+
+Pravdepodobnosť, že vytiahneme 2 biele guľky je cca 21%.
+
+#### Príklad: V triede je 30 žiakov. Práve 5 z nich nemá DÚ. Učiteľ náhode kontroluje 6 žiakov. Aká je pravdepodobnosť, že 
+A: Všetci kontrolovaní majú DÚ, 
+B: Jeden z niech nemá DÚ?
+
+n = C6(30) = 593 775
+
+m = C25(30) = 177 100
+
+P(A) = m/n = 593 775/177 100 (0,298)
+
+Pravdepodobnosť, že všetci kontrolovaný majú DÚ je 29,8%.
