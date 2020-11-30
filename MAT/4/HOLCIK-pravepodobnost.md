@@ -245,6 +245,8 @@ Pravdepodobnosť, že vytiahneme 2 biele guľky je cca 21%.
 A: Všetci kontrolovaní majú DÚ, 
 B: Jeden z niech nemá DÚ?
 
+##### A:
+
 n = C6(30) = 593 775
 
 m = C25(30) = 177 100
@@ -252,3 +254,13 @@ m = C25(30) = 177 100
 P(A) = m/n = 593 775/177 100 (0,298)
 
 Pravdepodobnosť, že všetci kontrolovaný majú DÚ je 29,8%.
+
+##### B:
+
+n = C6(30)
+
+m = C1(5)* C5(25)
+
+P(B) = m/n = 0,447
+
+Pravdepodobosť, že jeden žiak nemá DÚ je 44,7%.
