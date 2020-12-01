@@ -48,3 +48,34 @@ Poskytujú ho stavebné sporitelne.
 
 Predaj bielej a čiernej techniky na splátky.
 
+# Rating klienta
+
+## Priemerný mesačný príjem
+
+Za 3/6/12 mesiacov. U podnikateľov je to daňové priznanie za posledný rok, alebo 2 roky.
+
+## Najvyššie dosiahnuté vzdelanie
+
+Na základe vzdelania klienta s dá usúdiť, ako zodpovedne bude splácať úver.
+
+## Zamestnanie
+
+Čo, kde, ako dlho pracuje? U právnickej osoby je to na základe toho, koľko firma pracuje.
+
+## Stav domácnosti
+
+Rodinný stav a počet detí v domácnosti.
+
+## Iná forma príjmu
+
+Popri zamestnaní napríklad podnikanie.
+
+## V ktorej banke je klientom
+
+## Výška mesačných splátok a finančných záväzkov
+
+Napríklad leasing, spotrebný úver, vyživné...
+
+## Nedoplatky na iných úveroch, exekúcie
+
+
