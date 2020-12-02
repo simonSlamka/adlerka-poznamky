@@ -78,4 +78,12 @@ Napríklad leasing, spotrebný úver, vyživné...
 
 ## Nedoplatky na iných úveroch, exekúcie
 
+# Úverový register
+
+Je to spoločný register bankových informácií, sú vňom záznamy, ako si klient plní svoje finančné záväzky. Slúži na kontrolu, aby nebola anarchia s úvermi. Kažý úver alebo latba kreditkou je tu zaznamenávaná.
+
+# RPMN
+
+Ročná percentuálna miera nákladov. Je to najdôležitejší indikátor ceny úveru. Zahŕňa aj poplatky, ktoré sú s uvermi spojené. Povinný údaj v banke.
+
 
