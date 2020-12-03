@@ -264,3 +264,65 @@ m = C1(5)* C5(25)
 P(B) = m/n = 0,447
 
 Pravdepodobosť, že jeden žiak nemá DÚ je 44,7%.
+
+#### Priklad: 20 vyrobkov, 1 nekvalitny, vyberame 5, pravdepodobnost vsetky kvalitne?
+
+A: Nahonde vybranie 5 kvalitnych
+
+n = C5(20) = 
+
+m = C5(19) = 
+
+P(A) = m/n = 3/4 = 0,75 (75%)
+
+Pravdepodobnosť, že bude 5 kvalitných je 75%
+
+#### Priklad: Žiak vyberá 3 z 21 otazok, 5  nich nevie, pravdepodobnosť vytiahnutia všetky čo vie?
+
+A: Vyberie 3, na kt. je pripravený
+
+n = C3(21)
+
+m = C3(21-5) = C3(16) = 160
+
+P(A) = m/n = 8/19 = 0,42 (42%)
+
+#### Priklad: 32 kariet, vytiahneme 5
+
+A: Všetky budú zelené
+
+B: 3 zelené a 2 červené
+
+a)
+
+n = C5(32) = 201 286
+
+m = C5(8) = 56
+
+P(A) = m/n = 1/3596 = 0,000278(0,0278%)
+
+b)
+
+
+n = C5(32) = 201 286
+
+m = C3(8)*C2(8) = 1568
+
+P(A) = m/n = 7/899 = 0,00779 (0,78%)
+
+#### Priklad: Hod dvomi kockami
+
+A: Padne na oboch jednotka
+
+n = V'2(6)
+
+m = 1
+
+P(A) = m/n = 1/36 = 0,028 (2,8%)
+
+
+n = C3(21)
+
+m = C3(21-5) = C3(16) = 160
+
+P(A) = m/n = 8/19 = 0,42 (42%)
