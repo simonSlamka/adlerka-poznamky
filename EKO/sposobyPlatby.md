@@ -21,3 +21,7 @@
 ## Platba crypto
 
 ## Alternatívne platby
+
+## Pej pól
+
+## Péj baj skôér
