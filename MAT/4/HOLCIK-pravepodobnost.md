@@ -369,4 +369,8 @@ A' = {2,4,6}
 
 P(A') = 3/6 = 1/2
 
-P(A) + P(A') = 4/6 = 2/3
+C: Na kocke padne 1 alebo párne číslo C = {1,2,4,6}
+
+C = P(A) + P(A') = 4/6 = 2/3
+
+Pravdepodobnosť, že padne 1 alebo párne číslo je 0,67.
