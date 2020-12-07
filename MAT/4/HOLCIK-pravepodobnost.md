@@ -355,6 +355,12 @@ P(A) + P(A') = 1
 
 ## Pravdepodobnosť zjednotenia javov
 
+1. A ⋂ B = ∅, javy sú navzájom nezlučiteľné (disjunktné)
+***P(A ⋃ B) = P(A) + P(B)***
+
+2. A ⋂ B != ∅, javy sa nvzájom nevylučujú (nie sú disjunktné)
+***P(A ⋃ B) = P(A) + P(B) - P(A ⋂ B)***
+
 ### Priklad: Hod kockou
 
 A: Padne na kocke jednotka
@@ -374,3 +380,52 @@ C: Na kocke padne 1 alebo párne číslo C = {1,2,4,6}
 C = P(A) + P(A') = 4/6 = 2/3
 
 Pravdepodobnosť, že padne 1 alebo párne číslo je 0,67.
+
+
+### Priklad: Hod kockou
+
+A: Padne číslo delitelné 3 alebo nepárne
+
+A = {1,3,5,6}
+
+B: Padne číslo delitelné 3
+
+B = {3,6}
+
+P(B) = 2/6
+
+C: Padne číslo nepárne
+
+C = {1,3,5}
+
+C = 3/6
+
+D: Na kocke padne trojka A ⋂ B
+
+P(A ⋂ B) = 
+
+## Pravdepodobnosť prieniku dvoch nezávyslích javov
+
+Dva javy sú *nezávislé*, keď jeden nemá vplyv na uskutočnenie druhého.
+
+### Priklad: Hod dvomi kockami
+
+Padne jednotka pri prvom hode a pri druhom padne iné číslo. Tieto javy sú nezávyslé.
+
+n = V'2(6) = 36
+
+m = 5
+
+P = 5/36 = 0,139
+
+A: Pri 1. hode padne 1
+
+P(A) = 1/6
+
+B: Prie 2. hode nepadne 1
+
+P(A) = 5/6
+
+***P(A ⋂ B) = P(A) * P(B)***
+
+Pravdepodobnosť, že nastane sledovaný jav je 0,14.
