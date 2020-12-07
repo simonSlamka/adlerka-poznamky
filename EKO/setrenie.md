@@ -27,3 +27,24 @@ Vytvoríme si obálky s kategóriami a do týchto vložíme konkrétnu hotovosť
 ## Mobilné appky
 
 Nastavenie mesačných, ročných alebo denných limitov. Pri prekročení týchto limitov, appka upozorní.
+
+
+# Ako si strážiť výdavky
+
+## Získať reálny prehlad, koľko mínaš
+
+### Nájdi dinančné diery
+
+- Nekupovať hovadiny
+
+- Šetriť na energiách
+
+- Šetrenie na vode
+
+- Kupovanie oblečenia vtedy, keď to treba
+
+- Keď je možné, používať MHD
+
+- Nájsť si lacný paušál
+
+### Nevyhnutné výdavky, ktoré sa nedajú ovplyvniť
