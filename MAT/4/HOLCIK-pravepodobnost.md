@@ -326,3 +326,47 @@ n = C3(21)
 m = C3(21-5) = C3(16) = 160
 
 P(A) = m/n = 8/19 = 0,42 (42%)
+
+## Pravdepodobnosť javu A:  P(a) = m/n
+
+## Pravdepodobnosť javu istého:  P(a) = n/n = 1
+
+## Pravdepodobnosť javu nemožného:  P(a) = 0/n = 0
+
+## Pravdepodobnosť ľubovólneho javu A:  P(a) = m/n
+
+## Pravdepodobnosť doplnku javov
+
+### Priklad: Hod kockou
+
+A: Padne na kocke jednotka
+
+A = {1}
+
+P(A) = 1/6
+
+A': Nepadne jednotka
+
+A' = {2,3,4,5,6}
+
+P(A') = 5/6
+
+P(A) + P(A') = 1
+
+## Pravdepodobnosť zjednotenia javov
+
+### Priklad: Hod kockou
+
+A: Padne na kocke jednotka
+
+A = {1}
+
+P(A) = 1/6
+
+A': Padne párne číslo
+
+A' = {2,4,6}
+
+P(A') = 3/6 = 1/2
+
+P(A) + P(A') = 4/6 = 2/3
