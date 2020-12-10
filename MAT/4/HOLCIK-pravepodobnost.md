@@ -429,3 +429,62 @@ P(A) = 5/6
 ***P(A ⋂ B) = P(A) * P(B)***
 
 Pravdepodobnosť, že nastane sledovaný jav je 0,14.
+
+### Príklad: Výber fliaš
+
+16 fliaš, 10 budiš 6 salvatorka, keď vyberieme 3, aká je pravdepodobnosť, že vyberieme 2 budiš a 1 salvatorku?
+
+A: Výber 2 Budiš a 1 Salvator
+
+n = C3(16)
+
+m = C2(10) * C1(6)
+
+P(A) = m/n = 270/560 = 0,4821
+
+### Príklad: hod dvomi kockami
+
+A: Padne súčet rovný 5
+
+B: Padne súčet rovný 5 alebo 6
+
+A:
+
+n = V'2(6) = 6 * 6 = 36
+
+m = 4
+
+P(A) = m/n = 1/9 = 0,11 (11%)
+
+B:
+
+C: Padne súčet 6
+
+P(C) = 5/36
+
+P(A ⋂ C) = Nemožné
+
+P(B) = P(A ⋃ C) = P(A) + P(B) = 0,25
+
+
+### Príklad: žolo
+
+Z 52 žolíkových kariet vytiahneme 1. Pravdepodobnosť srdca alebo esa?
+
+A: Vytiahnutá kara je eso
+
+P(A) = 4/52
+
+
+B: Vytiahnutá kara je srdce
+
+P(B) = 13/52
+
+
+A ⋃ B: Vytiahnutá kara je eso alebo srdce
+
+A ⋂ B: Vytiahnutá kara je srdcové eso
+
+P(A ⋂ B) = 1/52
+
+P(A ⋃ B) = P(A) + P(B) - P(A ⋂ B) = 16/52 = 0,308
