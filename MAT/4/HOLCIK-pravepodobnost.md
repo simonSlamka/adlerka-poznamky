@@ -488,3 +488,5 @@ A ⋂ B: Vytiahnutá kara je srdcové eso
 P(A ⋂ B) = 1/52
 
 P(A ⋃ B) = P(A) + P(B) - P(A ⋂ B) = 16/52 = 0,308
+
+Pravdepodobnosť vytiahnutia esa alebo srdca je 30,8%.
