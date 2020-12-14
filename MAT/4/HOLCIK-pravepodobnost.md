@@ -530,14 +530,34 @@ Pravdepodobnosť, že 6ka padne práve 3krat je 7,81%.
 
 Nech A je udalosť s prevdepodobnosťou p. Pravdepodobnosť, že pri n- násobnom nezávislom opakovaní pokusu udalosť A nastane práve k-krát je
 
-Ck(n) * p^k * (1 -p)^(n-k)
+***Ck(n) * p^k * (1 -p)^(n-k)***
 
 - n - počet opakovaní
 
-- k - počet úspechov
+- k - počet 'úspechov'
 
-- n - k - počet neúspechov
+- n - k - počet 'neúspechov'
 
-- p - pravdepodobnosť úspechu
+- p - pravdepodobnosť 'úspechu'
 
-- 1 - p pravdepodobnosť neúspechu
+- 1 - p pravdepodobnosť 'neúspechu'
+
+### Príklad: Sústruh vyrába súčiastku za minutu
+
+Pravdepodobnosť vady je 0,05. Aká je pravdepodobnosť, že sústruh vyrobí za hodinu práve 5 vadných súčiastok.
+
+A: Vyrobenie práve 5 chybných súčiastok za hodinu.
+
+P(A) = Ck(n) * p^k * (1 -p)^(n-k)
+
+n = 60
+
+k = 5
+
+n - k = 55
+
+p = 0,05
+
+1 - p = 0,95
+
+P(A) = 0,1016
