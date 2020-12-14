@@ -490,3 +490,28 @@ P(A ⋂ B) = 1/52
 P(A ⋃ B) = P(A) + P(B) - P(A ⋂ B) = 16/52 = 0,308
 
 Pravdepodobnosť vytiahnutia esa alebo srdca je 30,8%.
+
+# Bernoulliho schéma
+
+Výpočet pravdepodobnosti počtu úspechov v sérii nezávislých pokusov.
+
+## Nezávislé náhodné pokusy
+
+Pravdepodobnosť výsledku ktoréhokoľvek pokusu nezávisí od výsledkov ostatných pokusov.
+
+
+### Príklad: hodíme ý krát kocku
+
+Pravdepodobnosť, že:
+
+A: Prvý, tretí a štvrtýkrát padne 6, v ostatných hodoch nie.
+
+B: Prvé 4 hody 6ka nepadne a posledné 3 áno.
+
+C: 6tka padne práve 3 krát.
+
+A: padne 6ka (1/6), nepadne 6ka (5/6), padne 6ka (1/6), padne 6ka (1/6), nepadne 6ka (5/6), nepadne 6ka (5/6), nepadne 6ka (5/6)
+
+P(A) = 1/6 * 5/6 * 1/6 * 1/6 * 5/6 * 5/6 * 5/6 = 0,00223
+
+Pravdepodobnosť daného javu je 0,223%.
