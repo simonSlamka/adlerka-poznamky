@@ -515,3 +515,29 @@ A: padne 6ka (1/6), nepadne 6ka (5/6), padne 6ka (1/6), padne 6ka (1/6), nepadne
 P(A) = 1/6 * 5/6 * 1/6 * 1/6 * 5/6 * 5/6 * 5/6 = 0,00223
 
 Pravdepodobnosť daného javu je 0,223%.
+
+B: 5/6, 5/6, 5/6, 5/6, 1/6, 1/6, 1/6
+
+P(B) = 5/6 * 5/6 * 5/6 *  5/6 * 1/6 * 1/6 * 1/6 = (5/6)^4 * (1/6)^3 = 0,00223
+
+Pravdepodobnosť daného javu je 0,223%.
+
+C: C3(7) * (5/6)^4 * (1/6)^3 = 0,0781
+
+Pravdepodobnosť, že 6ka padne práve 3krat je 7,81%.
+
+## Vzorec
+
+Nech A je udalosť s prevdepodobnosťou p. Pravdepodobnosť, že pri n- násobnom nezávislom opakovaní pokusu udalosť A nastane práve k-krát je
+
+Ck(n) * p^k * (1 -p)^(n-k)
+
+- n - počet opakovaní
+
+- k - počet úspechov
+
+- n - k - počet neúspechov
+
+- p - pravdepodobnosť úspechu
+
+- 1 - p pravdepodobnosť neúspechu
