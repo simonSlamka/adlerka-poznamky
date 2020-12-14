@@ -561,3 +561,5 @@ p = 0,05
 1 - p = 0,95
 
 P(A) = 0,1016
+
+Pravdepodobnosť, že sústruh vyrobí za hodinu práve 5 chybných súčiastok je 10,16%.
