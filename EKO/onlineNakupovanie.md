@@ -15,3 +15,17 @@ Cielom nekalých obchodných praktík je nalákať klienta a ovpivniť ho.
 - Nastviť si primeraný limit na platby na nete
 
 - Vyhíbanie sa zadávanie údajov na verejnej wifi alebo cudziom kompe
+
+# Elektronické bankovníctvo
+
+Moderný spôsob kominikácie klienta banky s bankou prostredníctvom digitálnych tech.
+
+## Internet banking
+
+## Mobile banking
+
+## Telephone banking
+
+## SMS banking
+
+## E pay
