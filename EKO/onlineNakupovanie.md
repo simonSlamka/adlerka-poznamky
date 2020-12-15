@@ -20,12 +20,23 @@ Cielom nekalých obchodných praktík je nalákať klienta a ovpivniť ho.
 
 Moderný spôsob kominikácie klienta banky s bankou prostredníctvom digitálnych tech.
 
-## Internet banking
+## Produkty elektronického bankovníctva
 
-## Mobile banking
+### Internet banking
 
-## Telephone banking
+### Mobile banking
 
-## SMS banking
+### Telephone banking
 
-## E pay
+### SMS banking
+
+### E pay
+
+## Čo sa nedá vybaviť cez net
+
+Väčšina bánk neumožnuje otvorenie účta bez fyzickej účasti (treba dojsť IRL).
+Ak ide o zložitejší problém (hypotéka), je zvyklá návšteva banky.
+
+## Je elektronické bankovníctvo safe?
+
+Banky lejú peniaze na vylepšovanie bezpečnosti. Využíva sa aj viacfaktorová autentifikácia a rôzne iné metódy (encryption, SMS overenie, čítačka kariet).
