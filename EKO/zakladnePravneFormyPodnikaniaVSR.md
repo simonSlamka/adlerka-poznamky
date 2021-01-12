@@ -79,3 +79,7 @@ Dosiahnuť zisk (zízkať nový kapitál), ale nie vždy sa to podarí.
 Vždy keď podnikáš tak riskuješ, napríklad risk neúspechu, zmena situácie na trhu.
 
 Treba si nájsť dôverihodného klienta.
+
+## Dobrá povesť
+
+Znamená, že to je dobrý podnikateľ, ktorý plní svoje záväzky načas. Dobrá povesť má trhovú hodnotu, vačšinou sú tieto služby/produkty lepšie platené. Dobrá povesť sa ťažko buduje, ale rýchlo ničí.
