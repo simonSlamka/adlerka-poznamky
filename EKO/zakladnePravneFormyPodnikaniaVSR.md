@@ -73,3 +73,9 @@ Dosiahnuť zisk (zízkať nový kapitál), ale nie vždy sa to podarí.
 - Zabezpečiť BOZP (aby zamestnanci pracovali v bezpečnom prostredí)
 
 - Chrániť živorné prostredie
+
+## Riziko podnikania
+
+Vždy keď podnikáš tak riskuješ, napríklad risk neúspechu, zmena situácie na trhu.
+
+Treba si nájsť dôverihodného klienta.
