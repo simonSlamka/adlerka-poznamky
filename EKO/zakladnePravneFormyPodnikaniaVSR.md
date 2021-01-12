@@ -53,3 +53,23 @@ Podnik môže uzatvárať vo svojom mene a záujme.
 ## Cieľ podnikania
 
 Dosiahnuť zisk (zízkať nový kapitál), ale nie vždy sa to podarí.
+
+# Práva a riziko podnikania
+
+## Právo
+
+- Právo podnikať je mať vlastný názov podnikania. Keď sa firma volá Rekonštrukta tak asi bude rekonštruovať.
+
+- Právo nadobúdať majetoka a disponovať s ním.
+
+- Právo mať ľubovólny počet zamestnancov.
+
+## Povinnosti
+
+- Viesť účtovníctvo (jednoduché/podbojné účtovníctvo)
+
+- Platiť dane a odvody
+
+- Zabezpečiť BOZP (aby zamestnanci pracovali v bezpečnom prostredí)
+
+- Chrániť živorné prostredie
