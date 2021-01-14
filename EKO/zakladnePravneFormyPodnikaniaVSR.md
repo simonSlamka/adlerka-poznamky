@@ -104,3 +104,15 @@ Je viazaná na určité osvečenie, ktoré oprávňuje subjekt túto činnosť v
 #### Voľné
 
 Stačí spĺňať 3 podmienky, 18 rokov, právna spôsobilosť, bezúholnosť.
+
+### Čo nieje živnosť
+
+Auditory, prekladatelia, tlmočníci. Tieto subjekty podnikajú na osibitné oprávnenie podnikať.
+
+### Všeobecné podmienky pre živnosť
+
+- 18 rokov
+
+- Právna spôsobilosť
+
+- Bezúholnosť
