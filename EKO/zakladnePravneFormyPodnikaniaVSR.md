@@ -102,3 +102,5 @@ Tieto remeslá sú rozdelené do činností. Musí mať minimálne SOŠ. Remeslo
 Je viazaná na určité osvečenie, ktoré oprávňuje subjekt túto činnosť vykonávať.
 
 #### Voľné
+
+Stačí spĺňať 3 podmienky, 18 rokov, právna spôsobilosť, bezúholnosť.
