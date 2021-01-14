@@ -41,3 +41,18 @@ Hodnoty sú vyjadrené číslami (napr. výška, hmotnosť, vek)
 #### Kvalitatávne znaky
 
 Hodnoty sú vyjadrené číslami (napr. pohlavie, znalosť cudzieho jazyka, národnosť)
+
+## Rozdelenie početnosti jedného kvantitatívneho znaku
+
+Úprava (zjednodušenie) prvotnej tabuľky:
+
+Neklesajúcu postupnosť hodnôt upraviť do tabuľky s dvomi riadkami
+
+riadok 1 - príslušná hodnota znaku
+
+riadok 2 - počet prípadov, v ktorých sa táto hodnota vyskytla
+
+X x1 x2 x3 ... xk
+
+nu n1 n2 n3 ... nk
+
