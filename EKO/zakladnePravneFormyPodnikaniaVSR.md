@@ -86,3 +86,19 @@ Znamená, že to je dobrý podnikateľ, ktorý plní svoje záväzky načas. Dob
 
 
 # Živnosti a ich členenie
+
+## Živnosť
+
+Sústavná činnosť vykonávaná samostatne vo vlastnom mene na vlastnú zodpovednosť za podmienok ustanoveným živnostnenským zákonom.
+
+### Členenie
+
+#### Remeselné
+
+Tieto remeslá sú rozdelené do činností. Musí mať minimálne SOŠ. Remeslo má zlaté dno.
+
+#### Viazané
+
+Je viazaná na určité osvečenie, ktoré oprávňuje subjekt túto činnosť vykonávať.
+
+#### Voľné
