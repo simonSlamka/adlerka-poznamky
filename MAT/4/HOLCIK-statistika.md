@@ -42,6 +42,16 @@ Hodnoty sú vyjadrené číslami (napr. výška, hmotnosť, vek)
 
 Hodnoty sú vyjadrené číslami (napr. pohlavie, znalosť cudzieho jazyka, národnosť)
 
+### Početnosť
+
+#### Absolútna početnosť
+
+hodnota znaku xi - číslo ktoré udáva, koľkokrát sa v danom súbore vyskytuje hodnota xi (začíname ni)
+
+#### Relatívna početnosť
+
+pi = ni/n (n je rozsah súboru), zvyčajne sa udáva v percentách. Platí, že súčet všetkých pi = 1
+
 ## Rozdelenie početnosti jedného kvantitatívneho znaku
 
 Úprava (zjednodušenie) prvotnej tabuľky:
