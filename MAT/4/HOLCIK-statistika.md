@@ -66,6 +66,16 @@ Zjednodušenie rozdelenia početnosti zámerným zanedbaním malých rozdielov m
 
 - Ich počet (k) sa určí pomocou Sturgesovho (k = 1 + 3,3logn (n je rozsah sboru)) pravidla alebo svolením intervalu (v závislosti od rozsahu súboru a povahy znaku).
 
+#### Grafické znáxornenia početností
+
+##### Histogram
+
+Stĺpcový diagram, na x sú triedne početnosti a nad každým je zostrojený obdĺžnik, ktorého výška sa rovná početnosti.
+
+##### Polygón početnosti
+
+Spojnicový diagram zostrojený pospájaním stredov horných strán jednotlivých obdĺžnikov histogramu.
+
 ## Rozdelenie početnosti jedného kvantitatívneho znaku
 
 Úprava (zjednodušenie) prvotnej tabuľky:
