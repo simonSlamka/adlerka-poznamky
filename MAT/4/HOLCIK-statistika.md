@@ -134,6 +134,8 @@ x = \frac{\sum_{i=1}^{m}*n_{i}*x_{i}}{n}
 
 - Prostredná hodnota mezi číslami ak ich *usporidáme podľa velkosti*.
 
+- Ak rozsah súboru n je párne číslo, potom sú prostredné hodnoty dve a medan sa vypočíta ako ich aritmetický priemer.
+
 ### Median
 
 ## Domáca úloha
