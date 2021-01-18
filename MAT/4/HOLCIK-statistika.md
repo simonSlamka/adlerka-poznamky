@@ -52,6 +52,20 @@ hodnota znaku xi - číslo ktoré udáva, koľkokrát sa v danom súbore vyskytu
 
 pi = ni/n (n je rozsah súboru), zvyčajne sa udáva v percentách. Platí, že súčet všetkých pi = 1
 
+#### Intervalové (skupinové)
+
+Zjednodušenie rozdelenia početnosti zámerným zanedbaním malých rozdielov medzi hodnotami znaku:
+
+- Pozorované hodnoty sa zaradia do intervalov
+
+- Hodnoty patriace do rovnakého intervalu sa považujú za rovnocenné a reprezentuje ich stred intervalu
+
+##### Triedne intervaly
+
+- Spravidla sú rovnakej dĺžky
+
+- Ich počet (k) sa určí pomocou Sturgesovho (k = 1 + 3,3logn (n je rozsah sboru)) pravidla alebo svolením intervalu (v závislosti od rozsahu súboru a povahy znaku).
+
 ## Rozdelenie početnosti jedného kvantitatívneho znaku
 
 Úprava (zjednodušenie) prvotnej tabuľky:
