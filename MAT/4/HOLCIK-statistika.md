@@ -116,9 +116,25 @@ Súčet všetkých hodnôt znaku delených ich počtom (rozsahom súboru)
 
 X' = 1/n * Sigma (i=1) * xi
 
-#### Median
+x = \frac{\sum_{i=1}^{m}*n_{i}*x_{i}}{n}
+
+##### Geometrický
+
+- Definovaný ako n-tá odmocnina súčinu hodnôt znaku 
+
+- Používa sa ako charakteristika polohy znaku, ktorého hodnoty narastajú geometricky
+
+- Vejadruje preiemernú hodnotu zmeny
 
 ### Modus
+
+- Najčastejšie sa vyskytujúca hodnota sledovaného znaku X medzi hodnotami
+
+### Medián
+
+- Prostredná hodnota mezi číslami ak ich *usporidáme podľa velkosti*.
+
+### Median
 
 ## Domáca úloha
 
