@@ -128,7 +128,10 @@ Vzniká združením minimálne dvomi spoločníkmi, ručia za závezky spoločno
 Komanditgeselschaft. Tvoria ju dva druhy spoločníkov - komandisti a komplementári. Komandisti ručia vkladom a komplementári ručia celým svojim majetkom.
  
 ## Spoločnosť s ručeňím obmedzeným
+
+GMBH, LTD. Môže ju založiť 1 spoločník, alebo maximálne 50. Spoločníci ručia obmedzene, do vyšky vkladu. Základne imanie je povinné od 5000€, a vklad jedného spoločníka je minimálne 750€.
  
 ## Akciová spoločnosť
- 
+
+AG, INC. Zakladajú ju minimálne 2 fyzické osoby alebo právnicka osoba. Minimálne imanie je 33 000€. Spoločníci sú akcionáry, ktoré vlastnia akcie určitej menovitej hodnoty.
  
