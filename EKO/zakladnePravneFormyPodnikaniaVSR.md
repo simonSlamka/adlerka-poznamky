@@ -116,3 +116,19 @@ Auditory, prekladatelia, tlmočníci. Tieto subjekty podnikajú na osibitné opr
 - Právna spôsobilosť
 
 - Bezúholnosť
+
+# Spoločnosti
+
+## Verejná obchodná spoločnsť
+
+Vzniká združením minimálne dvomi spoločníkmi, ručia za závezky spoločnosti neobmedzene - ich majetkom, základné imanie a zápis do obchodného registra nieje povinné.
+ 
+## Komanditná spoločnosť
+
+Komanditgeselschaft. Tvoria ju dva druhy spoločníkov - komandisti a komplementári. Komandisti ručia vkladom a komplementári ručia celým svojim majetkom.
+ 
+## Spoločnosť s ručeňím obmedzeným
+ 
+## Akciová spoločnosť
+ 
+ 
