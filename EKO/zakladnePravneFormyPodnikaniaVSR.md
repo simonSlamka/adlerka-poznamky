@@ -133,5 +133,5 @@ GMBH, LTD. Môže ju založiť 1 spoločník, alebo maximálne 50. Spoločníci 
  
 ## Akciová spoločnosť
 
-AG, INC. Zakladajú ju minimálne 2 fyzické osoby alebo právnicka osoba. Minimálne imanie je 33 000€. Spoločníci sú akcionáry, ktoré vlastnia akcie určitej menovitej hodnoty.
+AG, INC. Zakladajú ju minimálne 2 fyzické osoby alebo právnicka osoba. Minimálne imanie je 33 000€. Spoločníci sú akcionáry, ktoré vlastnia akcie určitej menovitej hodnoty. Najvyšší riadiací orgán je valné zhromaždenie, zasadá minimálne 1 za rok, výkonným orgánom je predstavenstvo a kontrolným orgánom je dozorná rada.
  
