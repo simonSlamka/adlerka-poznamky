@@ -90,6 +90,36 @@ X x1 x2 x3 ... xk
 
 nu n1 n2 n3 ... nk
 
+### Charakteristiky štatistického súboru
+
+- Číselné hodnoty, ktoré reprezentujú celý súbor
+
+- Porovnanie skúmaného javu dvoch, alebo viac súborov
+
+- Veľkosť "kolísania" hodnôt v danom súbore
+
+#### Polohy (úrovne)
+
+#### Variability (premenlivosti)
+
+### Charakteristiky polohy
+
+- Čísla, ktoré charakterizujú úroveň znaku v štatistickom súbore
+
+- Stredné hodnoty
+
+#### Priemery (aritmeticky, geometricky)
+
+##### Aritmeický x'
+
+Súčet všetkých hodnôt znaku delených ich počtom (rozsahom súboru)
+
+X' = 1/n * Sigma (i=1) * xi
+
+#### Median
+
+### Modus
+
 ## Domáca úloha
 
 | Žiak   	| 1 	| 2 	| 3 	| 4 	| 5 	| 6 	| 7 	| 8 	| 9 	| 10 	|
