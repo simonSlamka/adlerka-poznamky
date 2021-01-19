@@ -142,3 +142,5 @@ Materská spoločnosť zakladá cérske spoloďnosti v rôznych krajinách sveta
 ### Akcia
 
 Je to cenný papier, ktorý oprávnuje vlastníka na výplatu dividendy. Vyjadruje podieľ na riadení akciovej spoločnosti a oprávňuje podiel na majetku akciovej spoločnosti. Ak napríklad súktromník skúpi veľa akcií štátnej akciovky, tak sa tá akciovka stáva súkromná spoločnosť.
+
+Existuje majoritný a minoritný akcionár.
