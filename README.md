@@ -30,7 +30,7 @@ Toto repo je komunitná práca, takže ak máš niečo čo môže pomôcť ostat
 
 ## Ako prispievať
 
-V prvom rade potrebuješ práva na zápis a tie ti vie dať owner tohto repa, stačí napísať na _simon.slamka@smdtech.sk_
+V prvom rade potrebuješ práva na zápis a tie ti vie dať owner tohto repa, stačí napísať na [_simon.slamka@ongakken.com_](mailto:simon.slamka@ongakken.com)
 
 ### Jednoduchá cesta, (môžeš upraviť viac súborov naraz, vymazať/vytvoriť súbory, atď)
 
