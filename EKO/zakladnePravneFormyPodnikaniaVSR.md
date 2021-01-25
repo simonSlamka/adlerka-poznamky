@@ -34,9 +34,7 @@ Firma, subjekt zapísaný v obchodnom registri.
 
 ### Obchodný register
 
-Na stránke orsr.sk sa dajú nájsť rôzne info o firmách v obchodnom registri.
-
-Príklad aktuálneho zápisu firmy v ORSR: [ORSR](http://orsr.sk/vypis.asp?ID=546926&SID=2&P=0)
+Na stránke [orsr.sk](http://orsr.sk/vypis.asp?ID=546926&SID=2&P=0) sa dajú nájsť rôzne info o firmách v obchodnom registri.
 
 ## Formy samostatnosti podniku
 
