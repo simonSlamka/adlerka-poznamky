@@ -1,5 +1,3 @@
-Napisal: Simon Slamka
-
 4. Typy ekonomiky
 -----------------
 
