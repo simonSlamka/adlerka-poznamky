@@ -14,7 +14,7 @@ Sústavná činnosť vykonávaná samostatne vo vlastnom mene na vlastnú zodpov
 
 ### Živnostenský zákon
 
-### Zḱonník práce
+### Zákonník práce
 
 ### Účtovné zákony
 
@@ -35,6 +35,8 @@ Firma, subjekt zapísaný v obchodnom registri.
 ### Obchodný register
 
 Na stránke orsr.sk sa dajú nájsť rôzne info o firmách v obchodnom registri.
+
+Príklad aktuálneho zápisu firmy v ORSR: [ORSR](http://orsr.sk/vypis.asp?ID=546926&SID=2&P=0)
 
 ## Formy samostatnosti podniku
 
