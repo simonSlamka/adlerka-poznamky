@@ -1,6 +1,7 @@
 # Pravdepodobnosť
 
 Filip Holčík, 4.C
+Šimon Slamka, IV.C
 
 ## Základné pojmy
 
@@ -563,3 +564,22 @@ p = 0,05
 P(A) = 0,1016
 
 Pravdepodobnosť, že sústruh vyrobí za hodinu práve 5 chybných súčiastok je 10,16%.
+
+## Variačné rozpätie
+Rozdiel medzi najväčšou a najmenšou hodnotou znaku
+
+R = xmax - xmin
+
+- Závisí iba od krajných hodnôt
+- Jedna z nich alebo obe môžu byť extrémne hodnoty (pre daný súbor netypické)
+
+## Disperzia
+Aritmetický priemer štvorcov odchýlok hodnôt znaku od ich aritmetického priemeru
+
+![vzorcek](https://github.com/simonSlamka/adlerka-poznamky/blob/master/MAT/4/vzorecDisperzia.png)
+
+## Smerodajná odchýlka
+- druhá odmocnina z disperzie
+- rovnaký rozmer ako pozorovaný znak
+
+s = √s^2
