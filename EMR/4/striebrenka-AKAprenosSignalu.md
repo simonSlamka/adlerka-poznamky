@@ -6,3 +6,5 @@
   - nehomogénny
 - optický
 - elektromagnetický
+
+## Dvojlinka
