@@ -19,3 +19,4 @@
 - Tvoríme náhradné schémy.
 
 ## Primárne parametre
+![primarneParametreIllustracia](https://github.com/simonSlamka/adlerka-poznamky/blob/master/EMR/4/primarneParam.png)
