@@ -21,12 +21,6 @@
 ## Primárne parametre
 ![primarneParametreIllustracia](https://github.com/simonSlamka/adlerka-poznamky/blob/master/EMR/4/primarneParam.png)
 
-## Relatívna permitivita
-- hovorí, koľkonásobne bude elektrické pole znížené
-
-## Relatívna permeabilita
-- hovorí, koľkonásobne bude pole zvýšené
-
 ## Sekundárne parametre
 - smer
 - čím vyššia f, tým je fáza bližšie k 0
@@ -34,6 +28,12 @@
 - **Z** - vlnová (charakteristická impedancia)
 
 Z = √R + ( j * omega * L) / G + ( j * omega * c )
+
+## Relatívna permitivita
+- hovorí, koľkonásobne bude elektrické pole znížené
+
+## Relatívna permeabilita
+- hovorí, koľkonásobne bude pole zvýšené
 
 ## Činiteľ skrátenia
 - Vlnová dĺžka sa po budení bude skracovať v závislosti od materiálu.
