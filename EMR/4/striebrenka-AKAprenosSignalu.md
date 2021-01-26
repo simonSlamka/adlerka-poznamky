@@ -34,3 +34,7 @@
 - **Z** - vlnová (charakteristická impedancia)
 
 Z = √R + ( j * omega * L) / G + ( j * omega * c )
+
+## Činiteľ skrátenia
+- Vlnová dĺžka sa po budení bude skracovať v závislosti od materiálu.
+- rýchlosť šírenia elektromagnetickej vlny vo vzduchu vydelené frekvenciou
