@@ -32,4 +32,4 @@
 - čím vyššia f, tým je fáza bližšie k 0
 ### Impedancia
 - **Z** - vlnová (charakteristická impedancia)
-Z = √R+(j * omega * L)/G+(j * omega * c)
+Z = √R + ( j * omega * L) / G + ( j * omega * c )
