@@ -20,3 +20,9 @@
 
 ## Primárne parametre
 ![primarneParametreIllustracia](https://github.com/simonSlamka/adlerka-poznamky/blob/master/EMR/4/primarneParam.png)
+
+## Relatívna permitivita
+- hovorí, koľkonásobne bude elektrické pole znížené
+
+## Relatívna permeabilita
+- hovorí, koľkonásobne bude pole zvýšené
