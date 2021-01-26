@@ -14,7 +14,7 @@
 
 ## Phishing
 
-Hecker sa znáží prostredníctvom fake servicu (web, mail, wifi) zistiť credentials.
+Hacker sa znáží prostredníctvom fake servicu (web, mail, wifi) zistiť credentials.
 
 ## Skimming
 
