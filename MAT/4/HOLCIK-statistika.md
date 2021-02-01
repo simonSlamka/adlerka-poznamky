@@ -148,3 +148,11 @@ x = \frac{\sum_{i=1}^{m}*n_{i}*x_{i}}{n}
 |------------------------------	|:---:	|:---:	|:---:	|
 | Počet žiakov s takou známkou 	|  4  	|  4  	|  2  	|
 | Percentuálne zastúpenie      	| 40% 	| 40% 	| 20% 	|
+
+## Koeficient korelácie
+
+- Vzájomný vsťah medzi dvomi predmetmi, javmi alebo pojmami.
+
+- Po slovensky śuvsťažnosť
+
+- Závislosť medzi dvomi alebo viacerými znakmi v štatistickom súbore.
