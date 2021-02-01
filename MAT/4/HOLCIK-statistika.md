@@ -156,3 +156,7 @@ x = \frac{\sum_{i=1}^{m}*n_{i}*x_{i}}{n}
 - Po slovensky śuvsťažnosť
 
 - Závislosť medzi dvomi alebo viacerými znakmi v štatistickom súbore.
+
+- Značíme ho malým 'r'
+
+![vzorec](https://github.com/simonSlamka/adlerka-poznamky/blob/master/MAT/4/Screenshot%20from%202021-02-01%2008-59-32.png)
