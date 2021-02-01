@@ -160,3 +160,13 @@ x = \frac{\sum_{i=1}^{m}*n_{i}*x_{i}}{n}
 - Značíme ho malým 'r'
 
 ![vzorec](https://github.com/simonSlamka/adlerka-poznamky/blob/master/MAT/4/Screenshot%20from%202021-02-01%2008-59-32.png)
+
+![Vzorec s popisom]()
+
+- Je to bezrozmerné číslo
+
+- Je z intervalu <-1;1>
+
+- Čím bližšie je číslo |R| k jednej, tým je závyslosť medzi X a Y väčšia.
+
+- Ak sú znaky X a Y nezávislé, koeficient korelácie je nulový.
