@@ -25,3 +25,7 @@ Nová zmluva, platový dekrét.
 Odvolanie z funkcie a zaradenie k bežným zamestnancom.
 
 V pracovno-právnych vsťahoch je všetko vykonávané písomne.
+
+## Zápočet rokov zamestnania
+
+Započítania odpracovaných rokov pre sociálnu poisťovňu. Nový zamestnávateľ pokračuje v tomto zápočte kontinuálne.
