@@ -20,4 +20,6 @@ Na kompenzáciu môže zamestnávateľ ponúknuť náhradnú prácu.
 
 ## Karierny rast
 
-Nová zmluva, platový dekrét.
+Nová zmluva, platový dekrét. 
+
+Odvolanie z funkcie a zaradenie k bežným zamestnancom.
