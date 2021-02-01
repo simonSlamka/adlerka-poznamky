@@ -23,3 +23,5 @@ Na kompenzáciu môže zamestnávateľ ponúknuť náhradnú prácu.
 Nová zmluva, platový dekrét. 
 
 Odvolanie z funkcie a zaradenie k bežným zamestnancom.
+
+V pracovno-právnych vsťahoch je všetko vykonávané písomne.
