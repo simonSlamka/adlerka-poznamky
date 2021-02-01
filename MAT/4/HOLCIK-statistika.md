@@ -161,7 +161,7 @@ x = \frac{\sum_{i=1}^{m}*n_{i}*x_{i}}{n}
 
 ![vzorec](https://github.com/simonSlamka/adlerka-poznamky/blob/master/MAT/4/Screenshot%20from%202021-02-01%2008-59-32.png)
 
-![Vzorec s popisom]()
+![Vzorec s popisom](https://github.com/simonSlamka/adlerka-poznamky/blob/master/MAT/4/koeficientKorelacie-celyVzorec.png)
 
 - Je to bezrozmerné číslo
 
@@ -170,3 +170,5 @@ x = \frac{\sum_{i=1}^{m}*n_{i}*x_{i}}{n}
 - Čím bližšie je číslo |R| k jednej, tým je závyslosť medzi X a Y väčšia.
 
 - Ak sú znaky X a Y nezávislé, koeficient korelácie je nulový.
+
+- Korelácia je malá ak |r| < 0.3, mierna ak 0.3 <= |r| <= 0.8, silná ak 0.8 <= |r| < 0.1 a úplná korelácia je keď |r| = 1.
