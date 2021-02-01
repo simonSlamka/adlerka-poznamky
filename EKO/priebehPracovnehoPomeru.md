@@ -16,3 +16,8 @@ Prekážka, za ktorú zamestnanec nemôže (svatba, pohrab, výchrica kvoli ktor
 ### Prekážky na strane zamestnávateľa
 
 Výpadok elektrického prúdu, požiar, povodeň, volebné obdobie Igora Matoviča.
+Na kompenzáciu môže zamestnávateľ ponúknuť náhradnú prácu.
+
+## Karierny rast
+
+Nová zmluva, platový dekrét.
