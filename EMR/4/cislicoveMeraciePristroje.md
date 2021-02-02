@@ -14,3 +14,4 @@ Vstupné zariadenia sú nejaké snímače, ktorých výstup je a alógový sign�
 
 - podĺa elektrického signálu - Ohm, Volt, Ampér, Watt - metre
 
+# Výhody a nevýhody číslicových meracích prístrojov
