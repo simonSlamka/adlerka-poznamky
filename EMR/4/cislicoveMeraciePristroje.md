@@ -4,8 +4,11 @@
 
 - Vzorkovanie - dvojnásobok fmax; ideálne čo najvyššia
 
+![Zjednodušená bloková schéma CMP](https://github.com/simonSlamka/adlerka-poznamky/blob/master/EMR/4/CMP-schema.png)
+
 ## Rozdelenie číslicových meracích prístrojov
 
 - podľa meracej úrovne (amplitúdy)
 
 - podĺa elektrického signálu - Ohm, Volt, Ampér, Watt - metre
+
