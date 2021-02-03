@@ -149,6 +149,25 @@ x = \frac{\sum_{i=1}^{m}*n_{i}*x_{i}}{n}
 | Počet žiakov s takou známkou 	|  4  	|  4  	|  2  	|
 | Percentuálne zastúpenie      	| 40% 	| 40% 	| 20% 	|
 
+## Variačné rozpätie
+Rozdiel medzi najväčšou a najmenšou hodnotou znaku
+
+R = xmax - xmin
+
+- Závisí iba od krajných hodnôt
+- Jedna z nich alebo obe môžu byť extrémne hodnoty (pre daný súbor netypické)
+
+## Disperzia
+Aritmetický priemer štvorcov odchýlok hodnôt znaku od ich aritmetického priemeru
+
+![vzorcek](https://github.com/simonSlamka/adlerka-poznamky/blob/master/MAT/4/vzorecDisperzia.png)
+
+## Smerodajná odchýlka
+- druhá odmocnina z disperzie
+- rovnaký rozmer ako pozorovaný znak
+
+s = √s^2
+
 ## Koeficient korelácie
 
 - Vzájomný vsťah medzi dvomi predmetmi, javmi alebo pojmami.
