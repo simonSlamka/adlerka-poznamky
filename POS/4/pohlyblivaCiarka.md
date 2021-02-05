@@ -9,3 +9,7 @@ Floaty majú väčší rozsah zobrazitelných hodnôt, ale majú menšiu rozliš
 ![Sčítanie](./float-sucet.png)
 
 Operácia sčítania je možná, ak majú rovnaký exponent.
+
+### Odčítanie
+
+![Odčítanie](./float-rozdiel.png)
