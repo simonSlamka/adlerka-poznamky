@@ -5,3 +5,7 @@ Floaty majú väčší rozsah zobrazitelných hodnôt, ale majú menšiu rozliš
 ## Operácie sčítania, odčítania, násobenia a delenia v pohyblivej rádovej čiarke
 
 ### Sčítanie
+
+![Sčítanie](./float-scitanie.png)
+
+Operácia sčítania je možná, ak majú rovnaký exponent.
