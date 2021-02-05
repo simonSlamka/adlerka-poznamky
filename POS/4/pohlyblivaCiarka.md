@@ -6,6 +6,6 @@ Floaty majú väčší rozsah zobrazitelných hodnôt, ale majú menšiu rozliš
 
 ### Sčítanie
 
-![Sčítanie](./float-scitanie.png)
+![Sčítanie](./float-sucet.png)
 
 Operácia sčítania je možná, ak majú rovnaký exponent.
