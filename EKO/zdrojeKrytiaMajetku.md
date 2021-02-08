@@ -30,6 +30,8 @@ Je to buď zisk alebo strata, ak je strata, základné imanie sa znižuje, ak je
 
 ### Rezervy
 
+Sú na nevyčerpané dovolenky, alebo na nevyfakturované dodávky, prípadne na reklamácie.
+
 ### Záväzky
 
 ### Bankové úvery
