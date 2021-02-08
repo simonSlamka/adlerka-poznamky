@@ -6,6 +6,8 @@ Zdroje krytia majetku voláme pasíva v účtovníctve. Majetok sú aktíva, na 
 
 ### Základné imanie
 
+Je to súhrn vkladov vlastníkov podniku.
+
 ### Kapitálové fondy
 
 ### Fondy tvorené zo zisku
