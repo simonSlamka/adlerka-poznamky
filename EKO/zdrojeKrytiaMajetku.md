@@ -14,7 +14,17 @@ Prijaté dary od vlastníka firmy.
 
 ### Fondy tvorené zo zisku
 
+Majitelia neminuli zisk pre osobnú spotrebu, ale zainvestovali ho do firmy. Sú 3 fond:
+
+- Rezervný
+
+- Investičný
+
+- Fond opráv
+
 ### Výsledok hospodárenia
+
+
 
 ## Cudzie
 
