@@ -34,4 +34,6 @@ Sú na nevyčerpané dovolenky, alebo na nevyfakturované dodávky, prípadne na
 
 ### Záväzky
 
+Môžu to byť závazky voči zamestnancov, dodávateľov alebo daňovému úradu.
+
 ### Bankové úvery
