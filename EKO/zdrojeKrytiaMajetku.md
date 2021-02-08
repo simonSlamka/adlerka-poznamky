@@ -24,7 +24,7 @@ Majitelia neminuli zisk pre osobnú spotrebu, ale zainvestovali ho do firmy. Sú
 
 ### Výsledok hospodárenia
 
-
+Je to buď zisk alebo strata, ak je strata, základné imanie sa znižuje, ak je zisk, základné imanie sa zvyšuje.
 
 ## Cudzie
 
