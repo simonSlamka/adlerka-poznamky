@@ -10,6 +10,8 @@ Je to súhrn vkladov vlastníkov podniku.
 
 ### Kapitálové fondy
 
+Prijaté dary od vlastníka firmy.  
+
 ### Fondy tvorené zo zisku
 
 ### Výsledok hospodárenia
