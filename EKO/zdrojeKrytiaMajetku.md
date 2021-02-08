@@ -37,3 +37,5 @@ Sú na nevyčerpané dovolenky, alebo na nevyfakturované dodávky, prípadne na
 Môžu to byť závazky voči zamestnancov, dodávateľov alebo daňovému úradu.
 
 ### Bankové úvery
+
+Sú získané na základe úverovej zmluvy od banky.
