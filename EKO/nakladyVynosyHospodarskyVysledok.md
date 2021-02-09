@@ -24,3 +24,11 @@ Dajú sa presne vypočítať na kalkulačnú jednotku, pričom kalkulačná jedn
 Výrobná réžija, správna, zásobovacia a odbytová.
 
 ### Podľa objemu produkcie 
+
+#### Fixné
+
+Tieto náklady sa nemenia priamo s objemom výroby.
+
+#### Variabilné
+
+Tieto náklady sú priamo úmerné s objemom výroby.
