@@ -42,4 +42,4 @@ Výnosy vypovedajú o komerčnej úspešnosti.
 
 ## Efektívnosť
 
-Efektívnosť porovnanie nákladov a výnosov.
+Efektívnosť je porovnanie nákladov a výnosov (výstupy ku vstupom).
