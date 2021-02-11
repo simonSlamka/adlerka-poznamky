@@ -36,3 +36,7 @@ Tieto náklady sú priamo úmerné s objemom výroby.
 ## Výnosy
 
 Peňažné vyjadrenie objemu výkonu podniku.
+
+- Výkon = predané výrobky a služby
+
+
