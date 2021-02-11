@@ -2,7 +2,7 @@
 
 ## Náklady
 
-Peňažné vyjadrenie spotrebovaných výrobných faktorov
+Peňažné vyjadrenie spotrebovaných výrobných faktorov. Náklady vypovedajú o hospodárnosti firmy.
 
 ### Podľa nákladových druhov
 
@@ -35,8 +35,11 @@ Tieto náklady sú priamo úmerné s objemom výroby.
 
 ## Výnosy
 
-Peňažné vyjadrenie objemu výkonu podniku.
+Peňažné vyjadrenie objemu výkonu podniku. 
+Výnosy vypovedajú o komerčnej úspešnosti.
 
 - Výkon = predané výrobky a služby
 
+## Efektívnosť
 
+Efektívnosť porovnanie nákladov a výnosov.
