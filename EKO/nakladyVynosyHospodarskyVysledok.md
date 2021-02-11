@@ -32,3 +32,7 @@ Tieto náklady sa nemenia priamo s objemom výroby.
 #### Variabilné
 
 Tieto náklady sú priamo úmerné s objemom výroby.
+
+## Výnosy
+
+Peňažné vyjadrenie objemu výkonu podniku.
