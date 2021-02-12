@@ -45,3 +45,13 @@ Celá výkonná časť je uložená v pamäti (ROM). Používa sa pre výkonné 
 #### Diskovo orientované
 
 Systém je uložený na disku, na operačnej pamäti má len kernel a čo potrebuje, tak to si dodatočne načíta do operačnej pamäte.
+
+### Podľa typu používateľského rozhrania
+
+#### CLI
+
+Rozhranie príkazového riadku.
+
+#### GUI
+
+Grafické použivateľské rozhranie.
