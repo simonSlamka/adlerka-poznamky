@@ -34,4 +34,10 @@ Využívajú sa 2 metódy multitaskingu, **kooperatívny** a **preemptívny**.
 
 #### Špecializované
 
-Určené na konkrétny účel.
+Určené na konkrétny účel. Vývojové, riadiacé a komunikačné.
+
+### Podľa spôsobu uloženia v pamäti
+
+#### Pamäťovo rezidentné
+
+#### Diskovo orientované
