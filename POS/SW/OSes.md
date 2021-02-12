@@ -12,3 +12,11 @@ Je to súbor programov, ktoré slúžia na uľahčenie práce s počítačom. Je
 
 Tie sú len také, na ktorých majú iný používatelia iné právomoci, vlastné súbory. Po prihlásení relevantným loginam majú používatelia prístup len k vymedzeným prostriedkom.
 
+
+### Podľa počtu úloh
+
+#### Jednoúlohové
+
+#### Viacúlohové
+
+Môžeme používať viac programov súčasne. Tieto programy môžu navzájom spolupracovať a vymieňať si data.
