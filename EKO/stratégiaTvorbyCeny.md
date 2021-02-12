@@ -11,3 +11,4 @@ Je založená na prieskumu trhu a názoru zákazníkov. Podniky sa snažia prisp
 ## Konkurenčne orientovaná cena
 
 Vychádza z cien konkurenčných tovarov. Podnik si môže nastaviť ceny vyššie, nižšie alebo rovnaké ceny.
+
