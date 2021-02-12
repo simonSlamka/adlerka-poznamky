@@ -22,3 +22,16 @@ Tie sú len také, na ktorých majú iný používatelia iné právomoci, vlastn
 Môžeme používať viac programov súčasne. Tieto programy môžu navzájom spolupracovať a vymieňať si data.
 Využívajú sa 2 metódy multitaskingu, **kooperatívny** a **preemptívny**.
 
+### Podľa počtu súčasne spracovávaných vlákien v úlohe
+
+#### Jedno-vláknové
+
+#### Viac-vláknové
+
+### Podľa účelu použitia
+
+#### Univerzálne
+
+#### Špecializované
+
+Určené na konkrétny účel.
