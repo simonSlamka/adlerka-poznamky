@@ -33,3 +33,4 @@ P = {+-i}
 
 ## Zobrazenie komplexných čísel
 
+![gausova rovina](./gausova-rovina.png)
