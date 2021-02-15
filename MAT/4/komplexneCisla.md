@@ -58,4 +58,4 @@ P = {+-i}
 ### Algebraiciky
 
 
-![algebraicky](./algebaicky.png)
+![algebraicky](./algebraicky.png)
