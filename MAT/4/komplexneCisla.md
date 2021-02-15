@@ -28,3 +28,8 @@ Riešte v C
 x^2 + 1 = 0
 
 x^2 = -1
+
+P = {+-i}
+
+## Zobrazenie komplexných čísel
+
