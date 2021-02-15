@@ -56,3 +56,6 @@ P = {+-i}
 ![vektory](./vektor.png)
 
 ### Algebraiciky
+
+
+![algebraicky](./algebaicky.png)
