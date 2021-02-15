@@ -4,7 +4,21 @@
 
 - Zavedenie (Leo Euler) čísla **i**(imaginárna jednotka) - i = sqrt(-1)
 
-### Príklad
+## Typy
+
+### Imaginárne
+
+Obe zložky nenulové.
+
+### Rýdzoimaginárne
+
+Reálna zložka nulová.
+
+### Reálne
+
+Imaginárna zložka nulová.
+
+#### Príklad
 
 Vypočítajte mocniny: i^3, i^3, i^5, (-i)^2, i^17, i^100
 
@@ -21,7 +35,7 @@ i^17 = (i^2)^8 * i = i
 i^100 = (i^2)^50 = 1
 
 
-### Príklad
+#### Príklad
 
 Riešte v C
 
