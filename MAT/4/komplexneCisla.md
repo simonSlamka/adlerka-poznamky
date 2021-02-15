@@ -33,4 +33,12 @@ P = {+-i}
 
 ## Zobrazenie komplexných čísel
 
+### V Gausovej rovine
+
 ![gausova rovina](./gausova-rovina.png)
+
+### Vo vektoroch
+
+![vektory](./vektor.png)
+
+### Algebraiciky
