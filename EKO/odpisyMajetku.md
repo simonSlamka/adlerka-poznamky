@@ -22,3 +22,12 @@ Skrátime dobu odpisovania podľa vzorca.
 
 ### Majetok, ktorý sa neodpisuje
 
+Neodpisujeme majetky, ktorých hodnota rastie. Napríklad:
+
+- Umenie
+
+- Pozemky
+
+- Cenné papiere
+
+- Investičné meny
