@@ -14,14 +14,11 @@ Odpíšeme každý rok rovnakú sumu. Auto sa odpisuje podľa odpisovej skupiny 
 Skrátime dobu odpisovania podľa vzorca.
 
 ## Funkcie odpisov
+- Sú súčastou nákladov
 
-### Sú súčastou nákladov
+- Vyjadrujú stupeň opotrebenia
 
-Každý rok sa zníži daňový základ.
-
-### Vyjadrujú stupeň opotrebenia
-
-### Slúžia na fond obnovy majetku
+- Slúžia na fond obnovy majetku
 
 ### Majetok, ktorý sa neodpisuje
 
