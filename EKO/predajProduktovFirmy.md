@@ -15,3 +15,7 @@ Tvoria ho 4 zložky
 ### Propagacia
 
 ### Distribucia
+
+## Prieskum trhu
+
+Mapuje potreby súčasných a potenciálnych zákazníkov.
