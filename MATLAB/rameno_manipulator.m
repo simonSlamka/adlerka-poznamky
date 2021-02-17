@@ -2,17 +2,9 @@ clc
 clear all
 close all
 
-v = input('vyska valca = ');
-r = input('polomer podstavy = ');
-
-V = pi * r^2 * v;
-
-disp('Objem valca je');
-V
-%%
 n = 50;
-L_1 = 1;
-L_2 = 0.8;
+L_1 = 1.3;
+L_2 = 0.7;
 alfa_1 = linspace( 0 , pi , n );
 alfa_2 = linspace( -pi/2 , 3*pi/2 , n );
 
@@ -29,3 +21,9 @@ plot( x , y , '-' , x(3,:) , y(3,:) , 'g*');
 axis([ -1.5 , 2 , -1 , 2 ]);
 grid;
 hold;
+
+for i = 1 : n
+    plot( x ( : , i ) , y ( : , i ) , '-g');
+    plot( x ( 3 , i ) , y ( 3 , i ) , '*k' );
+    pause( 0.1 );
+end
