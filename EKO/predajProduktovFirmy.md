@@ -35,6 +35,8 @@ Napríklad sójové mlieko, sójové meso, sójové iné veci.
 
 ### Udržiavací
 
+Udržiavanie si pozície na trhu.
+
 ### Rozvojový
 
 ### Demarketing
