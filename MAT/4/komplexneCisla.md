@@ -80,3 +80,21 @@ Z = 3 + i
 Dve komplexné čísla sa rovnajú práve vtedy, keď sa rovnajú ich reálne aj miaginárne zložky.
 
 a = b <=> a1 = b1 /\ a2 = b2
+
+## Súčet komplexných čísel
+
+Reálna časť súčtu sa rovná súčtu reálnych častí a imaginárna časť súčtu sa rova súčtu imaginárnych častí.
+
+a + b = (a1 + b1) + (a2 + b2)i
+
+3 + i + 2 + i = 5 + 4i
+
+## Rozdiel komplexných čísel
+
+Reálna časť rozdielu sa rovná rozdielu reálnych častí a imaginárna časť rozdielu sa rova rozdielu imaginárnych častí.
+
+a - b = a + (-b) = (a1 - b1) + (a2 - b2)i
+
+5 + 2i - (2 + 3i) = 3 - i
+
+
