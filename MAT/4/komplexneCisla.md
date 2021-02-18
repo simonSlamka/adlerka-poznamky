@@ -97,4 +97,11 @@ a - b = a + (-b) = (a1 - b1) + (a2 - b2)i
 
 5 + 2i - (2 + 3i) = 3 - i
 
+## Súčin komplexných čísel
+
+Násobia sa všetky zložky medzi sebou.
+
+a * b = (a1b1 - a2b2) + (a1b2 + a2b1)i
+
+(2 + 3i) * (1 + i) = 2 + 2i + 3i + 3i^2 = 2 + 2i + 3i + 3 * (- 1)
 
