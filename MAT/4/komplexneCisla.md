@@ -74,3 +74,9 @@ Z = Z1 + Z2i => -Z = - Z1 - Z2i
 Z = 3 + i
 
 -Z = -3 - i
+
+## Rovnosť komplexných čísel
+
+Dve komplexné čísla sa rovnajú práve vtedy, keď sa rovnajú ich reálne aj miaginárne zložky.
+
+a = b <=> a1 = b1 /\ a2 = b2
