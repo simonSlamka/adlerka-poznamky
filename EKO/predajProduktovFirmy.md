@@ -19,3 +19,22 @@ Tvoria ho 4 zložky
 ## Prieskum trhu
 
 Mapuje potreby súčasných a potenciálnych zákazníkov.
+
+## Druhy marketingu
+
+### Priamy marketing
+
+Je určený pre teba osobne, je ti adresovaný nový produkt na tvoje meno.
+
+### Konverzný
+
+Marketingový odborníci sa snažia vytvoriť dopyt po produkte, po ktorom by zvyčajne dopyt nebol.
+Cieľom je presadiť sa na novom trhu.
+
+Napríklad sójové mlieko, sójové meso, sójové iné veci.
+
+### Udržiavací
+
+### Rozvojový
+
+### Demarketing
