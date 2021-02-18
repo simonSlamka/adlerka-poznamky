@@ -59,3 +59,18 @@ P = {+-i}
 
 
 ![algebraicky](./algebraicky.png)
+
+## Komplexne združené čísla
+
+Z = Z1 + Z2i => Z = Z1 - Z2i
+
+Z = 3 + i
+
+
+## Opačné čísla k číslu
+
+Z = Z1 + Z2i => -Z = - Z1 - Z2i
+
+Z = 3 + i
+
+-Z = -3 - i
