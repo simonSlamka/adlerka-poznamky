@@ -73,4 +73,7 @@ Nejaká hovadina, čo vyvíjajú ľudia platený Billom Gaycom, je to nestabiln�
 
 ## Architektúra operačných systémov
 
-Vrstva na najnižšejúrovni zabezpečuje priamy styk s HW počítača a táto vrstva sa nazýva BIOS.
+- Vrstva na najnižšejúrovni zabezpečuje priamy styk s HW počítača a táto vrstva sa nazýva BIOS (BasicInputOutputSysstem) - táto vrstva je technicky závislá na HW.
+- BIOS - Skladá sa z dvoch častí, fyzická a sogtwareova. Robí testy počítača (kontroluje pamať ram, prístup na pevné disky a spustí program na zavedenie OS z disku do pamäte), okrem uvedených záležitostí je možne aj nakonfigurovať BIOS, možnosť nastaviť pevné disky, nastavenie ovládania chipsetu, ovládanie plug'n'play, power manegement, možnosť nastavenia ovládania portov, nastavenie dátumu a času, nastavenie bootovania.
+
+- Táto zložka obsahu 
