@@ -72,3 +72,5 @@ Napríklad Linux, kde sa podielajú tisíce developerov na vytvorenie dokonaléh
 Nejaká hovadina, čo vyvíjajú ľudia platený Billom Gaycom, je to nestabilné, padá to.
 
 ## Architektúra operačných systémov
+
+Vrstva na najnižšejúrovni zabezpečuje priamy styk s HW počítača a táto vrstva sa nazýva BIOS.
