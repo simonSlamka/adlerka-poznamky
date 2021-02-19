@@ -78,3 +78,5 @@ Nejaká hovadina, čo vyvíjajú ľudia platený Billom Gaycom, je to nestabiln�
 Určenie miesta z ktorých bude OS zavádzaný a poradie prehliadávanie týchto miest sa nastavuje v konfigurácii biosu.
 
 - Táto zložka obsahu 
+
+- Jadro OS je vrstva, ktorá je nezávislá na HW a je rezidentne uložená v pamäti.
