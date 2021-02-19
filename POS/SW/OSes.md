@@ -80,3 +80,5 @@ Určenie miesta z ktorých bude OS zavádzaný a poradie prehliadávanie týchto
 - Táto zložka obsahu 
 
 - Jadro OS je vrstva, ktorá je nezávislá na HW a je rezidentne uložená v pamäti. Keď kernel potrebuje niečo importovať, tak si to načíta z disku do operačnej pamäti. Ovláda riadenie prostriedkov (nemusí to byť priamo, može aj pomocov nástrojov) počítača, ktorými je vybavený (procesormi, ram, vonkajšie pamäte, I/O, súbory).
+
+- V prípade, že viaceré bežiacé úlohy súčasne požadujú využitie toho istého HW, je úlohou kernelu pridelovať HW prostriedky systému tak, aby jednotlivé časti systému boli efektívne využívané a súčesne sa maximalizoval výkon.
