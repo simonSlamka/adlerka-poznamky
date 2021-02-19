@@ -83,4 +83,4 @@ Určenie miesta z ktorých bude OS zavádzaný a poradie prehliadávanie týchto
 
 - V prípade, že viaceré bežiacé úlohy súčasne požadujú využitie toho istého HW, je úlohou kernelu pridelovať HW prostriedky systému tak, aby jednotlivé časti systému boli efektívne využívané a súčesne sa maximalizoval výkon. Kernel môže predstavovať 1 alebo vic súborov.
 
-- Služby kernelu sú nasledne využívané nadstavbami OS a aplikáciami spúštanými pod OS.
+- Služby kernelu sú nasledne využívané nadstavbami OS a aplikáciami spúštanými pod OS. Častokrát je používateľské prostredie realizované nadstavbou na OS.
