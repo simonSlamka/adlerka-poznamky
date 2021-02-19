@@ -79,4 +79,4 @@ Určenie miesta z ktorých bude OS zavádzaný a poradie prehliadávanie týchto
 
 - Táto zložka obsahu 
 
-- Jadro OS je vrstva, ktorá je nezávislá na HW a je rezidentne uložená v pamäti.
+- Jadro OS je vrstva, ktorá je nezávislá na HW a je rezidentne uložená v pamäti. Keď kernel potrebuje niečo importovať, tak si to načíta z disku do operačnej pamäti.
