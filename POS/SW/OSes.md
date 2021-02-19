@@ -55,3 +55,20 @@ Rozhranie príkazového riadku.
 #### GUI
 
 Grafické použivateľské rozhranie.
+
+
+#### GUI (dotykove)
+
+Grafické rozhranie so vstupom na základe dotykov.
+
+### Podľa prístupností k zdrojovému kódu
+
+#### Open source
+
+Napríklad Linux, kde sa podielajú tisíce developerov na vytvorenie dokonalého systému.
+
+#### Closed source (proprietary)
+
+Nejaká hovadina, čo vyvíjajú ľudia platený Billom Gaycom, je to nestabilné, padá to.
+
+## Architektúra operačných systémov
