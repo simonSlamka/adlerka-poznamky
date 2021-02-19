@@ -86,3 +86,5 @@ Určenie miesta z ktorých bude OS zavádzaný a poradie prehliadávanie týchto
 - Služby kernelu sú nasledne využívané nadstavbami OS a aplikáciami spúštanými pod OS. Častokrát je používateľské prostredie realizované nadstavbou na OS.
 
 - Monitor OS je častokrát nazývaný interpreter príkazov, zabezpečuje prístup používateľa s OS.
+
+- Ovládače alebo drajvre sú obslužné programy zariadení.
