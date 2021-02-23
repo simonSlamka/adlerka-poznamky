@@ -27,3 +27,17 @@ Medzi napr. šéfom a zamestnancom, typu "Ideme na pivo" a pod.
 
 ### Kontrola
 
+Súčasťou managéra je kontrola práce.
+
+#### Predbežná
+
+Kontrola vstupných parametrov do výroby.
+
+#### Priebežná
+
+Porovnávanie plánovaného stavu so skutočnosťou. Kontrola samotného výrobného procesu.
+
+#### Výsledná
+
+Kontrola kvality produktov
+
