@@ -24,4 +24,6 @@ Plánovanie do viac ako 5 rokov.
 
 ### Kontrola
 
-##
+### Neformálne vzťahy
+Medzi napr. šéfom a zamestnancom, typu "Ideme na pivo" a pod.
+
