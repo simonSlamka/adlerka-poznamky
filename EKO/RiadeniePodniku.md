@@ -41,3 +41,6 @@ Porovnávanie plánovaného stavu so skutočnosťou. Kontrola samotného výrobn
 
 Kontrola kvality produktov
 
+### Analýza
+
+Analyzuje sa sledovaný prvok a na základe analýzi sa vyvodzujú následky.
