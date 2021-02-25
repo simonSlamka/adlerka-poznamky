@@ -105,3 +105,10 @@ a * b = (a1b1 - a2b2) + (a1b2 + a2b1)i
 
 (2 + 3i) * (1 + i) = 2 + 2i + 3i + 3i^2 = 2 + 2i + 3i + 3 * (- 1)
 
+
+## Absolútna hodnota
+
+|Z| Je vzdialenosť obrazu čísla **z** od začiatku súradnicovej sústavy v Gaussovej rovine.
+
+|Z| = sqrt(Z1^2 + Z2^2)
+
