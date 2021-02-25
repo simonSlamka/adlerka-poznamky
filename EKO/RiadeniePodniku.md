@@ -67,3 +67,9 @@ Každého berie rovnako, všetci sú si podľa neho rovní.
 ### Mentálna stabilita
 
 Nie je psychopat.
+
+## Spôsoby vedenia ľudí
+
+- osobným príkladom
+- nepriamym pôsobením
+- priamym usmerňovaním
