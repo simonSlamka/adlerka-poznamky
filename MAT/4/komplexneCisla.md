@@ -112,3 +112,5 @@ a * b = (a1b1 - a2b2) + (a1b2 + a2b1)i
 
 |Z| = sqrt(Z1^2 + Z2^2)
 
+Každé komplexné číslo, ktorého absolútna hodnota sa rovná 1, sa nazýva **komplexná jednotka**.
+
