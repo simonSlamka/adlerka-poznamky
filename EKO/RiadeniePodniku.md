@@ -44,3 +44,26 @@ Kontrola kvality produktov
 ### Analýza
 
 Analyzuje sa sledovaný prvok a na základe analýzi sa vyvodzujú následky.
+
+## Vlastnosti managéra
+
+### Integrita
+
+Nehrá to na slovenských politikov.
+
+### Spoľahlivosť
+
+Neklame a nezavádza so zlým zámerom.
+
+### Zodpovednosť
+
+Keď niečo došahá, prizná si to, nehodí to na druhého.
+Keď má niečo spraviť, nehodí to iného, spraví to.
+
+### Férovosť
+
+Každého berie rovnako, všetci sú si podľa neho rovní.
+
+### Mentálna stabilita
+
+Nie je psychopat.
