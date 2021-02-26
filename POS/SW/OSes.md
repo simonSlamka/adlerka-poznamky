@@ -88,3 +88,41 @@ Určenie miesta z ktorých bude OS zavádzaný a poradie prehliadávanie týchto
 - Monitor OS je častokrát nazývaný interpreter príkazov, zabezpečuje prístup používateľa s OS.
 
 - Ovládače alebo drajvre sú obslužné programy zariadení.
+
+## Funkcie OS
+
+OS je skupina programov, ktorá zabezpečuje čiastočne ale úplne tieto funkcie:
+
+- Správu procesov (process management)
+
+- Správu a pridelovanie pamäte (memmory management)
+
+- Správu súborov uložených na disku (storage management)
+
+- Správa periférnych zariadení
+
+- Komunikácia s uživateľom prostredníctvom periférnych zariadení (buď cez CLI alebo GUI)
+
+- Prideľovanie prostriedkov systému užívateľom alebo aplikáciam
+
+- Prideľovanie času užívateľom (tzv time sharing), alebo appkám (multitasking)
+
+- Zabezpečuje komunikáciu medzi aplikáciami
+
+- Vytváranie a spúštanie používateľských programov
+
+- Komunikácia s inými počítačmi v sieti
+
+- Diagnostické funkcie (autokontrola systému)
+
+- Možnosť analyzovať a odstránenia chýb
+
+- Zabezpečovacie funkcie
+
+- Ochraňana systému prosti strate údajov (napr pri výpadku napätia)
+
+- Ochrana pred neoprávneným manipulovaním
+
+Tieto funkcie sú zabezpečené programovímy modulmy (dajú sa kombinovať navzájom).
+
+
