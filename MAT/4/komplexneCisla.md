@@ -114,3 +114,6 @@ a * b = (a1b1 - a2b2) + (a1b2 + a2b1)i
 
 Každé komplexné číslo, ktorého absolútna hodnota sa rovná 1, sa nazýva **komplexná jednotka**.
 
+## Komplexná jednotka
+
+- Každé komplexné číslo, ktorého absolútna jednotka sa rovná 1.
