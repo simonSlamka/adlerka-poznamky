@@ -14,3 +14,4 @@
 # Okrem bank su financne institucie aj poistovne
 - poistny vztah medzi poistovnou a poistencom vznika na zaklade poistnej zmluvy
 - existuje nezivotne (majetok) a zivotne (osoby, napr. dochodkove poistenie, poistenie urazu, ...) poistenie
+- je povinne (napr. PZP) aj nepovinne poistenie
