@@ -117,3 +117,8 @@ Každé komplexné číslo, ktorého absolútna hodnota sa rovná 1, sa nazýva 
 ## Komplexná jednotka
 
 - Každé komplexné číslo, ktorého absolútna jednotka sa rovná 1.
+
+
+## Argument komplexného čísla
+
+Orientovaný uhol **fí**, medzi kladnou časťou osi *x* a vektorom zorazujúcim komplexné číslo *z*
