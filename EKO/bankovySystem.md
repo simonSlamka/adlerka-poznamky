@@ -1,6 +1,11 @@
 # Dvojstupnovy bankovy system
-- NBS
+- NBS ("banka bank")
   - centralna banka vykonava menovu politiku statu, aj napriek tomu, ze mame euro
   - poskytuje uvery komercnym bankam
   - realizuje devizove a kurzove operacie
+  - jej cinnost podlieha europskej centralnej banke
 - komercne banky
+  - poskytuju aktivne (uverove) operacie
+  - poskytuju pasivne (vkladove) operacie
+  - poskytuju sprostredkovatelske operacie (hotovostny a bezhotovostny platobny styk)
+  - 
