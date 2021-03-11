@@ -11,5 +11,5 @@
 
 ## Banky zarabaju hlavne z urokov a z bankovych poplatkov
 
-## Okrem bank su financne institucie aj poistovne
+# Okrem bank su financne institucie aj poistovne
 - poistny vztah medzi poistovnou a poistencom vznika na zaklade poistnej zmluvy
