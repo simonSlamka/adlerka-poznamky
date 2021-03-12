@@ -125,4 +125,12 @@ OS je skupina programov, ktorá zabezpečuje čiastočne ale úplne tieto funkci
 
 Tieto funkcie sú zabezpečené programovímy modulmy (dajú sa kombinovať navzájom).
 
+# Správa procesov
+
+Požiadávky kladené na moderný OS sú vysoké. Z tohto dôvodu môže byť program príliš veľkou jednotkou na spracovávanie a je nevyhnutné, aby spustený program bol rozdelené na menšie vykonávané jednotky - procesy.
+
+**Proces** je elementárna jednotka vykonávania úlohy.
+
+Samotné vykonávanie úlohy alebo programu môže zahŕňať množstvo elementárnych úloh, ktoré môžu vzájomne od seba závisieť, ale môžu byť aj nezávislé a vykonávané súbežne. Ako sme si povedali, vykonávanie viacerých procesov naraz sa realizuje vďaka multitaskingu a multiprocesingu.
+
 
