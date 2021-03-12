@@ -145,4 +145,33 @@ O pridelení prostriedkov sýstému jednotlivých procesov rozhoduje OS, ten roz
 
 ## Vlastnosti procesov
 
-Všetky procesi bežia zdanlivo súčasne, čiže CPU ich strieda, prepína medzi nimi.
+- Všetky procesi bežia zdanlivo súčasne, čiže CPU ich strieda, prepína medzi nimi. 
+
+- Proces nemusí byť totožný s programom ani nieje časť programu ako taká, ale program, alebo časť programu v s tave vykonávania.
+
+- Proces nie je tvorený len inštrukciami programu, ale obahuje v sebe aj všetky aktivity vyvolané programom. Napríklad obsahy registrov procesora súvisiace s procesom, návratovými adresami, dočasnými premennými a hodnotami, ktoré reprezentujú aktuálny stav vykonávania procesu.
+
+- S jedným programom môže byť zviazaných viacero procesov. Napríklad viac kariet v Chromiu, viac procesov v Electrone.
+
+- Na riadenie procesov sa používa dispatcher a plánovač.
+
+- Systém prerušení pomáha systému koordinovať paralerne prebiehajúce procesy.
+
+### Dispatcher
+
+Stráži stav využitia technických prostriedkov.
+
+### Plánovač (scheduler)
+
+Má za úlohu vybrať, ktorý proces sa vyberie na vykonávanie.
+
+## Mechanizmus obsahu prerušení
+
+Vykonávanie služieb OS a prapínanie medzi nimi je realizované mechanizmom prerušení.
+
+Prerušovanie môže byť inicializované hardwareovo, napríklad stlačením klávesy, požiadavkou sieťovky na komunikáciu, požiadavkou sieťovej linky.
+Signál o prerušena IRQ interrup request odovzdaný OS, ktorý spustí proces na vykonanie tejto požiadávky.
+
+Prerušenie môže byť vykonávané softwareovo. Požiadávka inicializovaná príslušnou hodnotou registrov. Toto prerušenie môže vykonať appka alebo OS.
+
+
