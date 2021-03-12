@@ -133,4 +133,12 @@ Požiadávky kladené na moderný OS sú vysoké. Z tohto dôvodu môže byť pr
 
 Samotné vykonávanie úlohy alebo programu môže zahŕňať množstvo elementárnych úloh, ktoré môžu vzájomne od seba závisieť, ale môžu byť aj nezávislé a vykonávané súbežne. Ako sme si povedali, vykonávanie viacerých procesov naraz sa realizuje vďaka multitaskingu a multiprocesingu.
 
+## Multitasking
 
+### Kooperatívny
+
+Spustený proces preberá úlohu nad systémovýmy prostredkami a sám rozhoduje o tom, kedy ukončí svoj beh a odovzdá systémové prostriedky späť systému.
+
+### Preemptívny
+
+O pridelení prostriedkov sýstému jednotlivých procesov rozhoduje OS, ten rozhoduje o tom, ktorý proces a ako dlho bude využívať systémové prostriedky.
