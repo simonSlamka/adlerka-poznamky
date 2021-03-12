@@ -174,4 +174,19 @@ Signál o prerušena IRQ interrup request odovzdaný OS, ktorý spustí proces n
 
 Prerušenie môže byť vykonávané softwareovo. Požiadávka inicializovaná príslušnou hodnotou registrov. Toto prerušenie môže vykonať appka alebo OS.
 
+## Stavy procesov
+
+Každý proces sa môže nachádzť v jednom z následujúcich stavov:
+
+- Nový (new), proces bol práve vytvorený
+
+- Prebiehajucí (runnig), inštrukcie procesu sa vykonávajú
+
+- Čakajúci  (waiting), proces čaká na udalosť, napríklad I/O operácaía
+
+- Pripravený (ready), proces čaká na pridelenie procesora
+
+- Ukončený (terminated), proces skončil vykonávanie
+
+Názvy jednotlivých stavov sa môžu inak volať v iných systémoch.
 
