@@ -142,3 +142,7 @@ Spustený proces preberá úlohu nad systémovýmy prostredkami a sám rozhoduje
 ### Preemptívny
 
 O pridelení prostriedkov sýstému jednotlivých procesov rozhoduje OS, ten rozhoduje o tom, ktorý proces a ako dlho bude využívať systémové prostriedky.
+
+## Vlastnosti procesov
+
+Všetky procesi bežia zdanlivo súčasne, čiže CPU ich strieda, prepína medzi nimi.
