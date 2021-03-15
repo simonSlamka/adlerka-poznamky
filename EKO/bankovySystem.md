@@ -15,3 +15,15 @@
 - poistny vztah medzi poistovnou a poistencom vznika na zaklade poistnej zmluvy
 - existuje nezivotne (majetok) a zivotne (osoby, napr. dochodkove poistenie, poistenie urazu, ...) poistenie
 - je povinne (napr. PZP) aj nepovinne poistenie
+
+# Vzťah peňazí, cien a inflácie
+
+## Index spotrebiteľských cien
+
+Inak nazývaný index životných nákladov. 
+
+Vytvára ho set tovarov a služieb, ktorý sa porovnáva s minulým rokom a tak vypočítame mieru inflácie v percentách (počíta sa ako vážený priemer).
+
+## Inflácia 
+
+Ekonomický jav, ktorý vyjadruje nerovnováhu, vonkajším efektom je rast cien.
