@@ -27,3 +27,17 @@ Vytvára ho set tovarov a služieb, ktorý sa porovnáva s minulým rokom a tak 
 ## Inflácia 
 
 Ekonomický jav, ktorý vyjadruje nerovnováhu, vonkajším efektom je rast cien.
+
+### Formy inflácie
+
+#### Mierna
+
+Ak je ročný rast do 9 percent, hovoríme o miernej inflácii, je prijateľná pre rast ekonomiky.
+
+#### Cválajúca
+
+Pohybuje sa medzi 10 a 1000 %, v tomto prípade ide o cválajúcu infláciu, spôsobuje destabilizáciu ekonomiky a má hospodárske následky.
+
+#### Hyperinflácia
+
+Znamená vyššie tempo inflácie ako 1000% a znamená uplný rozpad peňažného systému v štáte.
