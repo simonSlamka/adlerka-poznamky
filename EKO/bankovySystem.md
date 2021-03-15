@@ -43,3 +43,5 @@ Pohybuje sa medzi 10 a 1000 %, v tomto prípade ide o cválajúcu infláciu, sp�
 Znamená vyššie tempo inflácie ako 1000% a znamená uplný rozpad peňažného systému v štáte.
 
 Napríklad Nemecko po WW1, Zimbabwe a teraz Venezuela.
+
+Praktický ľudia v tejto situácii používajú iné meny.
