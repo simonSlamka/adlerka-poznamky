@@ -45,3 +45,15 @@ Znamená vyššie tempo inflácie ako 1000% a znamená uplný rozpad peňažnéh
 Napríklad Nemecko po WW1, Zimbabwe a teraz Venezuela.
 
 Praktický ľudia v tejto situácii používajú iné meny.
+
+ ### Dôsledky inflácie
+ 
+ - Klesajú reálne príjmi obyvateľstva a tým aj jeho kúpyschopnosť
+
+ - Znehodnocuje sa mena a úspory
+
+ - Mení sa štruktúra spotreby obyvateľstva
+
+ - Znevýhodňuje veriteoľv
+
+ - Vážne sociálne následky
