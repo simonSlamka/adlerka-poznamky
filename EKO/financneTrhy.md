@@ -21,3 +21,8 @@
 ## Zmenky
 
 - Je to cenný papier, v ktorom sa vystavovateľ zmenky zaviaže, že vo vystavenom čase zaplatí sumu inej osobe.
+- Bezne sa zmenky nepouzivaju
+
+## Burza
+
+- to be continued
