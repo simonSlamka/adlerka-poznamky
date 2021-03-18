@@ -13,3 +13,7 @@
 ## Devízy
 
 - pohľadávka znejúcu na cudziu menu
+
+## Šek
+
+- Je to cenný papier, v ktorom je uvedený písomný príkaz banke, aby vyplatila sumu uvedenú na sumu buď majitelovi šeku, alebo osobe uvedenej na šeku.
