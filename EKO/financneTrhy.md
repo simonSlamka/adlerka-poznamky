@@ -17,3 +17,7 @@
 ## Šek
 
 - Je to cenný papier, v ktorom je uvedený písomný príkaz banke, aby vyplatila sumu uvedenú na sumu buď majitelovi šeku, alebo osobe uvedenej na šeku.
+
+## Zmenky
+
+- Je to cenný papier, v ktorom sa vystavovateľ zmenky zaviaže, že vo vystavenom čase zaplatí sumu inej osobe.
