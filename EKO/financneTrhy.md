@@ -1,3 +1,3 @@
 # Financne trhy 
-- Penazny (short-term)
-- Kapitalovy (long-term)
+- Penazny (short-term, do jedneho roka)
+- Kapitalovy (long-term, nad jeden rok)
