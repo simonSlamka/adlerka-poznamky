@@ -122,3 +122,15 @@ Každé komplexné číslo, ktorého absolútna hodnota sa rovná 1, sa nazýva 
 ## Argument komplexného čísla
 
 Orientovaný uhol **fí**, medzi kladnou časťou osi *x* a vektorom zorazujúcim komplexné číslo *z*
+
+## Moivrova veta
+
+Pre všetky prirodzené čísla *n* platí:
+
+***(cosa+isina)^n = cos(n a)+i sin(n a)***
+
+## Umocnenie komplexného čísla
+
+a = |a|*(cos a + i sin a)
+
+a^n = |a|^n * [cos(n a) + i sin(n a)]
