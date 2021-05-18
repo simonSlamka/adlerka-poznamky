@@ -1,4 +1,6 @@
-# Adlerka poznámky
+# Hlada sa osoba, prip. skupina, ktora bude toto repo udrziavat, prispievat do neho a spravat sa voci nemu zodpovedne. Vytvorili sme to tu na to, aby sme si vzajomne pomohli, tak to tak berte aj vy.
+
+### Adlerka poznámky
 
 Repo na poznamky z akychkolvek predmetov, aby sme mali prehlad a vsetko pokope.
 
