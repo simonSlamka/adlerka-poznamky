@@ -44,7 +44,7 @@ V prvom rade potrebuješ práva na zápis a tie ti vie dať owner tohto repa, st
 
 > 1. Upravíš súbor na stránke a dáš commit, pre pridanie súboru musíš dať add file v zložke kde chceš aby bol.
 >
-> 2. Manipuláciu so zložkami nedudem vysvetlovať, pre to treba ísť jednoduchou cestou, pretože tu je to príliš komplikované.
+> 2. Manipuláciu so zložkami nebudem vysvetlovať, pre to treba ísť jednoduchou cestou, pretože tu je to príliš komplikované.
 
 ## Poznámky k tomuto repu
 
