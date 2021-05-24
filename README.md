@@ -18,7 +18,7 @@ Toto repo je komunitná práca, takže ak máš niečo čo môže pomôcť ostat
 > 1. Nainštaluješ si [git](https://git-scm.com/downloads) ak nemáš, čo pochybujem, že máš. A ak si to chceš zjednodušiť, 
 > odporúčam [GitHub Desktop](https://desktop.github.com/), tak sa dá vyhnúť terminálu.
 >
-> 2. Naklonuješ si toto repo, otvor si terminál a napíš tam toto: `git clone https://github.com/simonSlamkaSMD/adlerka-poznamky.git`
+> 2. Naklonuješ si toto repo, otvor si terminál a napíš tam toto: `git clone https://github.com/simonSlamka/adlerka-poznamky.git`
 >
 > ##### Hotovo, pre aktualizáciu súborov napíšeš do terminálu: `git pull`
 
