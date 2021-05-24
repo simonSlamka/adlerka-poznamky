@@ -5,7 +5,7 @@
 Repo na poznamky z akychkolvek predmetov, aby sme mali prehlad a vsetko pokope.
 
 #### !!! Prosim nepridavat ziaden ilegalny obsah (obsah chraneny copyrightom, sexisticke zalezitosti, rasizmus, diskriminacia, nacizmus, fasizmus, atd ...) !!!
-
+-----------------------------
 FILIP:
 
 Toto repo je komunitná práca, takže ak máš niečo čo môže pomôcť ostatným, tak to daj sem.
