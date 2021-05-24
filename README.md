@@ -48,9 +48,4 @@ V prvom rade potrebuješ práva na zápis a tie ti vie dať owner tohto repa, st
 
 ## Poznámky k tomuto repu
 
-Martin Chmela dlží Filipovi Holčíkovi 20€.
-
-Zatiaľ je v tom bordel, tak dúfam, že sa nájde nejaká dobrá duša, ktorá to vytriedi.
-
 Keď pridávaš súbory cez GIT, tak nezabudni pre pridanie tých súborov napísať: `git add *`
-# No, myslím, že stačí
